@@ -1,0 +1,1455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tables of the emperour kings, and all the soveraign princes and electoral that are now alive in Europe. 1. Their names. 2. When they were born. 3. When they came to their respective crowns and principalities. 4. When and whom they have married. 5. What children they have got, and the time of their birth. Together with their natural children, owned by them. Very useful to all that read the London, Harlem, Amsterdam and Paris Gazette.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64518</idno>
+            <idno type="STC">Wing T92</idno>
+            <idno type="STC">ESTC R222060</idno>
+            <idno type="EEBO-CITATION">99833298</idno>
+            <idno type="PROQUEST">99833298</idno>
+            <idno type="VID">37774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2065:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tables of the emperour kings, and all the soveraign princes and electoral that are now alive in Europe. 1. Their names. 2. When they were born. 3. When they came to their respective crowns and principalities. 4. When and whom they have married. 5. What children they have got, and the time of their birth. Together with their natural children, owned by them. Very useful to all that read the London, Harlem, Amsterdam and Paris Gazette.</title>
+               </titleStmt>
+               <extent>[8], 128, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Abel Roper, at the Mitre, and Rich. Southby, at the Golden Fleece, in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an initial imprimatur leaf.</note>
+                  <note>With four final advertisement leaves.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  Kings and rulers --  Early works to 1800.</term>
+               <term>Europe --  Nobility --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:37774:1"/>
+            <p>Imprimatur,</p>
+            <p>
+               <hi>Nov.</hi> 28th, 1692.</p>
+            <p>
+               <hi>Edmund Bohun.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:37774:1"/>
+            <head>TABLES OF THE Emperour, Kings And all the SOVERAIGN PRINCES AND ELECTORAL</head>
+            <p>That are now alive in <hi>Europe.</hi>
+            </p>
+            <p n="1">1. Their Names.</p>
+            <p n="2">2. When they were Born.</p>
+            <p n="3">3. When they came to their reſpe<g ref="char:EOLhyphen"/>ctive Crowns and Principalities.</p>
+            <p n="4">4. When and whom they have Mar<g ref="char:EOLhyphen"/>ried.</p>
+            <p n="5">5. What Children they have got, and the time of their Birth.</p>
+            <p>Together with their natural Children, owned by them.</p>
+            <p>Very uſeful to all that read the <hi>London, Harlem, Amsterdam</hi> and <hi>Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> Gaz<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Abel <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Mitre,</hi> and <hi>Rich. Southby</hi> at <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Fleece,</hi> in <hi>Fleet-ſtreet,</hi> 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>93.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37774:2"/>
+            <pb facs="tcp:37774:2"/>
+            <head>TO THE READER.</head>
+            <p>THE Collection of the follow<g ref="char:EOLhyphen"/>ing Tables, I firſt made for my own <g ref="char:V">Ʋ</g>ſe, but being importuned by ſome
+<pb facs="tcp:37774:3"/>Friends of mine to oblige them with a Copy, and the tran<g ref="char:EOLhyphen"/>ſcribing of them being very troubleſom, I at laſt reſolved to Print them, in order to con<g ref="char:EOLhyphen"/>tent my Friends, and to oblige the publick.</p>
+            <p>The Tables are exact to a day, and tho' many will wonder how a particular Man
+<pb facs="tcp:37774:3"/>could come to the knowledge of it, yet thoſe that are verſed in Genealogy will ea<g ref="char:EOLhyphen"/>ſily know from whence they are taken.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37774:4"/>
+            <pb n="1" facs="tcp:37774:4"/>
+            <head>TABLES OF THE Emperour, Kings, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>The Houſe of <hi>Au<g ref="char:EOLhyphen"/>stria.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>§. I. <hi>The German Line.</hi> The Emperour of the <hi>Germans.</hi>
+                  </head>
+                  <p>
+                     <hi>LEOPOLD</hi> Empe<g ref="char:EOLhyphen"/>rour of the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> born <hi>June</hi> the 9th 1640.</p>
+                  <pb n="2" facs="tcp:37774:5"/>
+                  <p>He was proclaimed King of <hi>Hungary,</hi> 1655.</p>
+                  <p>King of <hi>Bohemia,</hi> 1656.</p>
+                  <p>And choſen Empe<g ref="char:EOLhyphen"/>rour, 1658.</p>
+                  <p>
+                     <hi>Eleonora,</hi> Empreſs of the <hi>Germans,</hi> eldeſt daugh<g ref="char:EOLhyphen"/>ter to <hi>Philip William</hi> Duke of <hi>Neuburg,</hi> and Elect. Pal. born <hi>Jan.</hi> 6. 1655.</p>
+                  <p>Married to the Em<g ref="char:EOLhyphen"/>perour, <hi>Decem.</hi> 14. 1676.</p>
+                  <p>Their Children.</p>
+                  <p>1. <hi>Joſeph</hi> King of the <hi>Romans,</hi> born <hi>July</hi> the 16. 1678.</p>
+                  <pb n="3" facs="tcp:37774:5"/>
+                  <p>He was Crowned King of <hi>Hungary,</hi> 1688.</p>
+                  <p>And choſen King of the <hi>Romans,</hi> 1689.</p>
+                  <p>2. <hi>Mary Elizabeth,</hi> born <hi>Dec.</hi> the 13. 1680.</p>
+                  <p>3. <hi>Leopold,</hi> born 1682, died <hi>Aug.</hi> the 4. 1684.</p>
+                  <p>4. <hi>Mary Anne,</hi> born <hi>Sept.</hi> the 7. 1683.</p>
+                  <p>5. <hi>Mary Thereſa,</hi> born <hi>Aug.</hi> the 22. 1684.</p>
+                  <p>6. <hi>Charles,</hi> born <hi>Octob.</hi> the firſt, 1685.</p>
+                  <p>7. <hi>Mary Joſepha,</hi> born <hi>March</hi> the 6. 1687.</p>
+                  <pb n="4" facs="tcp:37774:6"/>
+                  <p>8. <hi>Anne Joſepha,</hi> born <hi>March</hi> the 26. 1689.</p>
+                  <p>The Emperour has but one Siſter alive.</p>
+                  <p>
+                     <hi>Eleonora,</hi> the Queen Dutcheſs, born <hi>May</hi> the 21. 1653.</p>
+                  <p>Married to <hi>Michael</hi> King of <hi>Poland,</hi> 1670.</p>
+                  <p>And after his Death, to <hi>Charles</hi> Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> 1678.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>The Emperour has been twice Married be<g ref="char:EOLhyphen"/>fore.</p>
+                     <pb n="5" facs="tcp:37774:6"/>
+                     <p n="1">1. With <hi>Margaretha Thereſa,</hi> Daughter to <hi>Philip</hi> the IV. King of <hi>Spain;</hi> who died <hi>March</hi> the 20. 1673.</p>
+                     <p n="2">2. With <hi>Claudia Felia,</hi> Daughter to Arch Duke of <hi>Ferdinand,</hi> who died <hi>April</hi> the 8. 1676.</p>
+                     <p>By the firſt Wife he had Four Children.</p>
+                     <p n="1">1. <hi>Ferdinand,</hi> born <hi>Sep.</hi> the 28. 1667.</p>
+                     <p>Died <hi>Jan.</hi> the 13. 1668.</p>
+                     <p n="2">2. <hi>Mary Antonia,</hi> born <hi>Jan.</hi> the 18. 1669.</p>
+                     <pb n="6" facs="tcp:37774:7"/>
+                     <p>Married to the pre<g ref="char:EOLhyphen"/>ſent Elector of <hi>Bavaria,</hi> 1688.</p>
+                     <p n="3">3. <hi>John,</hi> born and di<g ref="char:EOLhyphen"/>ed 1670.</p>
+                     <p n="4">4. <hi>Mariana,</hi> born and died, 1672.</p>
+                     <p>With his ſecond Wife he had but two.</p>
+                     <p n="1">1. <hi>Anne,</hi> born and di<g ref="char:EOLhyphen"/>ed, 1674.</p>
+                     <p n="2">2. <hi>Mary,</hi> born 1675, died, 1676.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="7" facs="tcp:37774:7"/>
+                  <head>§. II. <hi>The</hi> Spaniſh, <hi>or</hi> Caroline <hi>Line.</hi>
+                  </head>
+                  <head>Spain.</head>
+                  <p>
+                     <hi>CHarles</hi> II. King of <hi>Spain,</hi> born <hi>Nov.</hi> the 6. 1661.</p>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1665.</p>
+                  <p>
+                     <hi>Mary</hi> Queen of <hi>Spain,</hi> Daughter to <hi>Philip Wil<g ref="char:EOLhyphen"/>liam</hi> Duke of <hi>Neuburg,</hi> and Elect. Pal. born <hi>Octob.</hi> the 28. 1667.</p>
+                  <pb n="8" facs="tcp:37774:8"/>
+                  <p>Married to the King, <hi>Aug.</hi> the 28. 1689.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>The preſent King of <hi>Spain,</hi> had in a former Marriage to his Wife, <hi>Mary Louiſa,</hi> daughter to the preſent Duke of <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> born <hi>March</hi> the 27, 1662.</p>
+                     <p>Married <hi>Nov.</hi> the 17. 1679.</p>
+                     <p>Died, 1689.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:37774:8"/>
+               <head>England.</head>
+               <head type="sub">
+                  <hi>The Houſes of</hi> Naſſau, <hi>and</hi> Stuard.</head>
+               <div n="1" type="section">
+                  <head>§ I.</head>
+                  <p>
+                     <hi>WIlliam</hi> III. King of Great <hi>Brit<g ref="char:EOLhyphen"/>tain,</hi> born nine days af<g ref="char:EOLhyphen"/>ter his Fathers death, <hi>Nov.</hi> 14. 1650.</p>
+                  <p>He was reſtored to his hereditary dignity in the united Provinces, 1672.</p>
+                  <pb n="10" facs="tcp:37774:9"/>
+                  <p>Proclaimed King of <hi>England, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land, Feb.</hi> the 14 1689.</p>
+                  <p>Crowned <hi>April<g ref="char:punc">▪</g>
+                     </hi> the 11. 1689.</p>
+                  <p>Proclaimed King of <hi>Scotland, April</hi> the 11. 1689.</p>
+                  <p>
+                     <hi>Mary</hi> Queen of Great <hi>Britain,</hi> born <hi>April</hi> the 30. 1662.</p>
+                  <p>Married to his Ma<g ref="char:EOLhyphen"/>jeſty, the then Prince of <hi>Orange, Nov.</hi> the 4. 1677.</p>
+                  <p>Proclaimed Queen of <hi>England, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land, Feb.</hi> 14. 1689.</p>
+                  <pb n="11" facs="tcp:37774:9"/>
+                  <p>Crowned, <hi>Apr.</hi> 11, 1689.</p>
+                  <p>Proclaimeſt Queen of <hi>Scotland, Apr.</hi> the 11, 1689.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>§. II.</head>
+                  <p>
+                     <hi>GEorge,</hi> Prince of <hi>Denmark,</hi> born 1651.</p>
+                  <p>
+                     <hi>Anne,</hi> only Siſter to her Majeſty, born 1664. in <hi>Febr.</hi>
+                  </p>
+                  <p>Married to the Prince, <hi>July</hi> the 28. 1683.</p>
+                  <p>Their Children,</p>
+                  <p>
+                     <hi>William</hi> Duke of <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> born <hi>July,</hi> 1689.</p>
+                  <pb n="12" facs="tcp:37774:10"/>
+                  <p>Their Royal High<g ref="char:EOLhyphen"/>neſſes had beſides three Children more, <hi>viz.</hi> The Lady <hi>Mary,</hi> the Lady <hi>Anne,</hi> and another Princeſs who died in their Infancy, 1688.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>§. III.</head>
+                  <p>THe Princeſs and Princeſſes, of the Royal Blood of <hi>England,</hi> that are not excluded from the Succeſſion of the Crown, by the late Act of Parliament.</p>
+                  <pb n="13" facs="tcp:37774:10"/>
+                  <p>
+                     <hi>Sophia,</hi> Dutcheſs of <hi>Hanover,</hi> daughter to <hi>Frederic</hi> the V. Elect. Pal. and King of <hi>Bohe<g ref="char:EOLhyphen"/>mia,</hi> born <hi>Octob.</hi> the 13. 1630.</p>
+                  <p>Married to the Duke, 1658.</p>
+                  <p>Her Children.</p>
+                  <p n="1">I. <hi>George Lewis,</hi> born <hi>May</hi> the 28, 1660.</p>
+                  <p>He Married <hi>Sophie Do<g ref="char:EOLhyphen"/>rothe,</hi> daughter to the Duke of <hi>Zell,</hi> by whom he has 2 Princes.</p>
+                  <p>1. <hi>George Auguſt,</hi> born <hi>Octob.</hi> the 30, 1683.</p>
+                  <pb n="14" facs="tcp:37774:11"/>
+                  <p>2. <hi>William Erneſt,</hi> born, 1685.</p>
+                  <p n="2">II. <hi>Chriſtian,</hi> born <hi>Sep.</hi> the 29, 1671.</p>
+                  <p n="3">III. <hi>Erneſt Auguſt,</hi> born <hi>Sep.</hi> the 17, 1674.</p>
+                  <p n="4">IV. <hi>Sophia Charlotta,</hi> born <hi>Oct.</hi> the 20, 1668.</p>
+                  <p>Married to the pre<g ref="char:EOLhyphen"/>ſent Elect of <hi>Branden<g ref="char:EOLhyphen"/>burg:</hi> She has bore him two Princes, of which there is but one alive.</p>
+                  <p>
+                     <hi>Frederic William,</hi> born <hi>Aug.</hi> the 4, 1688.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="15" facs="tcp:37774:11"/>
+                  <head>§. IV.</head>
+                  <p>THe other Princes, and Princeſſes that are <hi>Roman Catholicks,</hi>
+                  </p>
+                  <p n="1">I. <hi>Anne Mary,</hi> the pre<g ref="char:EOLhyphen"/>ſent Dutcheſs of <hi>Savoy,</hi> born <hi>Auguſt</hi> the 27th 1669.</p>
+                  <p>Her Children,</p>
+                  <p>1. <hi>Mary Adetherd,</hi> born <hi>Dec.</hi> the 6, 1685.</p>
+                  <p>2. Another Princeſs, born <hi>Aug.</hi> the 30, 1688.</p>
+                  <pb n="16" facs="tcp:37774:12"/>
+                  <p n="2">II. <hi>Charlotta Elizabeth,</hi> the preſent Dutcheſs of <hi>Orleans,</hi> her Children.</p>
+                  <p>1. <hi>Philip</hi> Duke of <hi>Chartres.</hi>
+                  </p>
+                  <p>2. <hi>Elizabeth</hi> of <hi>Char<g ref="char:EOLhyphen"/>tres.</hi>
+                  </p>
+                  <p n="3">III. <hi>Anne,</hi> the preſent Princeſs of <hi>Conde,</hi> daugh<g ref="char:EOLhyphen"/>ter to <hi>Edward</hi> Count Pa<g ref="char:EOLhyphen"/>latin, and Grand-Child to the King of <hi>Bohemia;</hi> her Children.</p>
+                  <p>1. <hi>Mary</hi> of <hi>Bourbon.</hi>
+                  </p>
+                  <p>2. <hi>Lewis</hi> Duke of <hi>An<g ref="char:EOLhyphen"/>guien.</hi>
+                  </p>
+                  <pb n="17" facs="tcp:37774:12"/>
+                  <p>3. <hi>Mary</hi> of <hi>Monmoran<g ref="char:EOLhyphen"/>cy.</hi>
+                  </p>
+                  <p>4. <hi>Anne Mary</hi> of <hi>An<g ref="char:EOLhyphen"/>guien.</hi>
+                  </p>
+                  <p>5. <hi>Aloiſa</hi> of <hi>Conde.</hi>
+                  </p>
+                  <p n="4">IV. Two daughters of <hi>Benedicta Henrietta Philippina,</hi> Dutcheſs of <hi>Hanover,</hi> daughter to <hi>Edward</hi> Count Palatin, and Grand-Child to the King of <hi>Bohemia.</hi>
+                  </p>
+                  <p>1. <hi>Charlotta Felicitas,</hi> born <hi>March</hi> the 8, 1671.</p>
+                  <p>2. <hi>Withelmina Amalia,</hi> born <hi>April</hi> the 26, 1673.</p>
+                  <pb n="18" facs="tcp:37774:13"/>
+                  <p>
+                     <hi>The Princes of the Houſe of</hi> Naſſau, <hi>are to be found among the Prin<g ref="char:EOLhyphen"/>ces of the Empire.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>France.</head>
+               <head type="sub">
+                  <hi>The Houſe of</hi> Bourbon.</head>
+               <div n="1" type="section">
+                  <head>§. I.</head>
+                  <p>
+                     <hi>LEwis</hi> the XIV. the <hi>French</hi> King, born <hi>Sept.</hi> the 5th, 1638.</p>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1642.</p>
+                  <p>Was Crowned, 1654.</p>
+                  <pb n="19" facs="tcp:37774:13"/>
+                  <p>He Married <hi>Mary Thereſa,</hi> daughter to <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the IV. King of <hi>Spain,</hi> 1660, who died 1683.</p>
+                  <p>
+                     <hi>Lewis</hi> the Dauphin, born <hi>Nov</hi> the firſt, 1661.</p>
+                  <p>He Married <hi>Anne</hi> daughter to <hi>Ferdinand,</hi> Elect of <hi>Bavaria, Mareh</hi> the 7th, 1680, who died, 1690.</p>
+                  <p>His Children.</p>
+                  <p n="1">1. <hi>Lewis</hi> Duke of
+<pb n="20" facs="tcp:37774:14"/>
+                     <hi>Burgundy,</hi> born <hi>Aug.</hi> the 6th, 1682.</p>
+                  <p n="2">2. <hi>Philip</hi> Duke of <hi>Anjou,</hi> born <hi>Nov.</hi> the 19th, 1683.</p>
+                  <p n="3">3. <hi>Gaſton</hi> Duke of <hi>Berry,</hi> born <hi>Auguſt</hi> the 31, 1686.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>The <hi>French</hi> King's natural Children are,</p>
+                     <p n="1">I. Born of Madam <hi>de la Valiere,</hi> Dutcheſs of <hi>Vaujour.</hi>
+                     </p>
+                     <pb n="21" facs="tcp:37774:14"/>
+                     <p>1. <hi>Mary Anne,</hi> of <hi>Bourbon,</hi> born, 1666.</p>
+                     <p>Married to the Prince of <hi>Conti,</hi> 1680.</p>
+                     <p>2. <hi>Lewis</hi> of <hi>Bourbon,</hi> Duke of <hi>Vermandois,</hi> born, 1667.</p>
+                     <p>Died, 1683.</p>
+                     <p n="2">II. Born of Madam <hi>de Monteſpan.</hi>
+                     </p>
+                     <p>1. <hi>Lewis Auguſt,</hi> of <hi>Bourbon,</hi> Duke of <hi>Maine,</hi> born, 1670.</p>
+                     <p>Legitimated, 1673.</p>
+                     <p>2. <hi>Lewis Caeſar,</hi> of <hi>Bourbon,</hi> Count of <hi>Vex<g ref="char:EOLhyphen"/>in,</hi> born, 1672.</p>
+                     <pb n="22" facs="tcp:37774:15"/>
+                     <p>Died, 1683.</p>
+                     <p>3. <hi>Aloiſa,</hi> of <hi>Nantes,</hi> born, 1673.</p>
+                     <p>Married to the Duke of <hi>Bourbon,</hi> 1685.</p>
+                     <p>4. <hi>Aloiſa Mary,</hi> died 1681.</p>
+                     <p>5. <hi>Lewis Alexander,</hi> of <hi>Bourbon,</hi> Count of <hi>Tou<g ref="char:EOLhyphen"/>louze,</hi> born 1678.</p>
+                     <p>Legitimated, 1681.</p>
+                     <p>6. <hi>Franciſca Mary,</hi> of <hi>Blois,</hi> born 1681.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="23" facs="tcp:37774:15"/>
+                  <head>§. II.</head>
+                  <p>
+                     <hi>PHilip,</hi> Duke of <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> only Bro<g ref="char:EOLhyphen"/>ther to the <hi>French</hi> King, born <hi>Sep</hi> the 21, 1640.</p>
+                  <p>
+                     <hi>Charlotte Elizabeth,</hi> Dutcheſs of <hi>Orleans,</hi> daughter to <hi>Charles Lew<g ref="char:EOLhyphen"/>is</hi> Elector Palatin, born 1652.</p>
+                  <p>Married to the Duke 1671.</p>
+                  <p>Their Children,</p>
+                  <p n="1">1. <hi>Philip</hi> Duke of
+<pb n="24" facs="tcp:37774:16"/>
+                     <hi>Chartres,</hi> born <hi>Aug.</hi> the 2, 1674.</p>
+                  <p n="2">2. <hi>Elizabeth,</hi> of <hi>Char<g ref="char:EOLhyphen"/>tres,</hi> born <hi>Sep.</hi> the 13th, 1676.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>The Duke of <hi>Orleans,</hi> had in a former Mar<g ref="char:EOLhyphen"/>riage with <hi>Henrietta,</hi> daughter to <hi>Charles</hi> the I. King of Great <hi>Brit<g ref="char:EOLhyphen"/>tain,</hi> (who died 1670.) four Children.</p>
+                     <p n="1">1. <hi>Mary Aloiſa,</hi> born <hi>March</hi> the 27th, 1662.</p>
+                     <p>Married to <hi>Charles</hi> II.
+<pb n="25" facs="tcp:37774:16"/>King of <hi>Spain, Nov.</hi> the 17th, 1679, died, 1689.</p>
+                     <p n="2">2. <hi>Philip,</hi> died in his Infancy.</p>
+                     <p n="3">3. <hi>Anonima.</hi>
+                     </p>
+                     <p n="4">4. <hi>Anne Mary,</hi> born <hi>Aug.</hi> the 27th, 1669.</p>
+                     <p>Married to <hi>Victor A<g ref="char:EOLhyphen"/>made,</hi> the preſent Duke of <hi>Savoy,</hi> 1684.</p>
+                  </div>
+               </div>
+               <div n="3" type="section">
+                  <head>§. III.</head>
+                  <p>THe Princes of the Blood.</p>
+                  <p n="1">I. <hi>Henry,</hi> of <hi>Bourbon,</hi> Prince of <hi>Conde,</hi> born
+<pb n="26" facs="tcp:37774:17"/>
+                     <hi>July</hi> the 29th, 1643.</p>
+                  <p>
+                     <hi>Anne,</hi> Princeſs of <hi>Con<g ref="char:EOLhyphen"/>de,</hi> daughter to <hi>Edward</hi> Count Palatin of the <hi>Rhine,</hi> born <hi>July</hi> the 23, 1647.</p>
+                  <p>Married to the Prince <hi>Dec.</hi> the 11th, 1663.</p>
+                  <p>Their Children,</p>
+                  <p>1. <hi>Mary Thereſa,</hi> of <hi>Bourbon,</hi> born, 1666.</p>
+                  <p>2. <hi>Lewis,</hi> of <hi>Bourbon,</hi> Duke of <hi>Anguien,</hi> born, 1668.</p>
+                  <p>He Married <hi>Aloiſa,</hi> of
+<pb n="27" facs="tcp:37774:17"/>
+                     <hi>Nantes,</hi> the <hi>French</hi> Kings natural daughter, 1685.</p>
+                  <p>3. <hi>Mary Anne,</hi> of <hi>Monmorency,</hi> born, 1675.</p>
+                  <p>4. <hi>Anne Mary,</hi> of <hi>An<g ref="char:EOLhyphen"/>guien,</hi> born, 1676.</p>
+                  <p>5. <hi>Aloiſa,</hi> of <hi>Conde,</hi> born, 1678.</p>
+                  <p n="2">II. <hi>Francis Lewis,</hi> of <hi>Bourbon,</hi> Prince of <hi>Conti,</hi> born, 1664.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:37774:18"/>
+               <head>Denmark.</head>
+               <head type="sub">The Houſe of Oldenburg.</head>
+               <div n="1" type="section">
+                  <head>§ I.</head>
+                  <p>
+                     <hi>CHriſtian</hi> V. King of <hi>Denmark,</hi> born, 1645.</p>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>Feb.</hi> the 9th, 1670.</p>
+                  <p>
+                     <hi>Charlotta Amalia,</hi> Queen of <hi>Denmark,</hi> daughter to <hi>William</hi> VI. <hi>Landgrave,</hi> of <hi>Heſs,</hi> born <hi>April</hi> the 27th, 1650.</p>
+                  <pb n="29" facs="tcp:37774:18"/>
+                  <p>Married to the King, 1668.</p>
+                  <p>Their Children,</p>
+                  <p n="1">1. <hi>Frederic,</hi> call'd the Crown-Prince, born <hi>Octob.</hi> the 21, 1671.</p>
+                  <p n="2">2. <hi>Chriſtian,</hi> born <hi>Oct.</hi> the 18th, 1675.</p>
+                  <p n="3">3. <hi>Sophia, Hedwig,</hi> born <hi>Auguſt</hi> the 28th, 1677.</p>
+                  <p n="4">4. <hi>Chriſtina Charlotta,</hi> born <hi>January</hi> the 18th, 1677.</p>
+                  <pb n="30" facs="tcp:37774:19"/>
+                  <p n="5">5. <hi>Charles,</hi> born <hi>Octo.</hi> the 25th, 1680.</p>
+                  <p n="6">6. <hi>William,</hi> born, 1687.</p>
+                  <p>Prince <hi>George,</hi> the Kings only Brother,</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>The King of <hi>Den<g ref="char:EOLhyphen"/>mark.</hi> has one natural Brother, <hi>Frederic,</hi> Count <hi>Guldenlow,</hi> Vice-Roy of <hi>Norway.</hi>
+                     </p>
+                     <p>And by the Coun<g ref="char:EOLhyphen"/>teſs of <hi>Samſee,</hi> he has ſe<g ref="char:EOLhyphen"/>veral natural Children.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="31" facs="tcp:37774:19"/>
+                  <head>§. II.</head>
+                  <p>THe Chief Princes of the ſeveral Branches of the Royal Houſe of <hi>Denmark,</hi>
+                  </p>
+                  <p n="1">I. <hi>Chriſtian Albret,</hi> Duke of <hi>Gottorp,</hi> born <hi>Feb.</hi> the 3, 1641.</p>
+                  <p>
+                     <hi>Frederica Amalia,</hi> Dutch<g ref="char:EOLhyphen"/>eſs of <hi>Gottorp,</hi> the Kings Siſter, born, 1648.</p>
+                  <p>Married to the Duke, 1667.</p>
+                  <p>Their Children,</p>
+                  <p>1. <hi>Sophia Amalia,</hi> born 1670.</p>
+                  <pb n="32" facs="tcp:37774:20"/>
+                  <p>2. <hi>Frederic,</hi> born, 1671.</p>
+                  <p>3. <hi>Chriſtian Auguſt,</hi> born, 1673.</p>
+                  <p>4. <hi>Mary Elizabeth,</hi> born, 1678.</p>
+                  <p n="2">II. <hi>Chriſtian Adolph,</hi> Duke of <hi>Sunderburg,</hi> born, 1641.</p>
+                  <p>There are of this Branch, beſides Eigh<g ref="char:EOLhyphen"/>teen Princes alive.</p>
+                  <p n="3">III. <hi>Chriſtian Auguſt,</hi> Duke of <hi>Nordburg,</hi> born, 1689.</p>
+                  <p n="4">IV. <hi>Chriſtian,</hi> Duke of <hi>Glucksburg,</hi> born, 1627.</p>
+                  <pb n="33" facs="tcp:37774:20"/>
+                  <p>He has three Sons,</p>
+                  <p>1. <hi>Philip Erneſt,</hi> born, 1673.</p>
+                  <p>2. <hi>Joachim Adolph,</hi> born, 1679.</p>
+                  <p>3. <hi>Chriſtian Auguſt,</hi> born, 1681.</p>
+                  <p n="5">V. <hi>John Adolf,</hi> Duke of <hi>Ploen,</hi> born, 1634.</p>
+                  <p>
+                     <hi>Dorothea Sophia,</hi> Dutch<g ref="char:EOLhyphen"/>eſs of <hi>Ploen,</hi> daughter to <hi>Rudolf Auguſt,</hi> Duke of <hi>Walfembuttel,</hi> born <hi>Jan.</hi> the 18th, 1653.</p>
+                  <p>Married to the Duke 1673.</p>
+                  <p>Their Children,</p>
+                  <pb n="34" facs="tcp:37774:21"/>
+                  <p>1. <hi>Adolf Auguſt,</hi> born, 1680.</p>
+                  <p>2. <hi>Joachim Erneſt,</hi> born, 1681.</p>
+                  <p>Died, 1682.</p>
+                  <p>3. <hi>John <g ref="char:V">Ʋ</g>lric,</hi> born, 1684.</p>
+                  <p>The Duke of <hi>Ploen,</hi> has one Brother, <hi>Joa<g ref="char:EOLhyphen"/>chim Erneſt,</hi> General of the <hi>Spaniſh</hi> Horſe in the <hi>Netherlands,</hi> born, 1637.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Sueden.</head>
+               <p>
+                  <hi>The preſent King of</hi> Sueden, <hi>is of the Branch
+<pb n="35" facs="tcp:37774:21"/>of</hi> Deuxponts, <hi>of the Houſe Palatin.</hi>
+               </p>
+               <p>
+                  <hi>Charles</hi> IX. King of <hi>Sueden,</hi> born, 1655.</p>
+               <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1660.</p>
+               <p>
+                  <hi>Ulrica Eleonora,</hi> Queen of <hi>Sueden,</hi> Siſter to the preſent King of <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> born, 1656.</p>
+               <p>Married to the King, <hi>May</hi> the 16th, 1680.</p>
+               <p>Their Children.</p>
+               <p n="1">1. <hi>Hedewig Sophia,</hi> born <hi>June</hi> the 26th, 1681.</p>
+               <p n="2">2. <hi>Charles,</hi> the heredi<g ref="char:EOLhyphen"/>tary Prince, born <hi>June</hi> the 17th, 1682.</p>
+               <pb n="36" facs="tcp:37774:22"/>
+               <p n="3">3. <hi>Ulrica Eleonora,</hi> born <hi>Jan.</hi> the 21, 1688.</p>
+               <p>The Princes, <hi>Guſtave, Ulric,</hi> and <hi>Charles Guſtave,</hi> died in their Infancy.</p>
+               <div type="section">
+                  <head>Remark,</head>
+                  <p>The preſent King of <hi>Sueden,</hi> has one natural Brother, Count <hi>Guſtave Carlſon.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Poland.</head>
+               <p>
+                  <hi>The preſent King of</hi> Poland, is of the Fa<g ref="char:EOLhyphen"/>mily of <hi>Sobiesky.</hi>
+               </p>
+               <pb n="37" facs="tcp:37774:22"/>
+               <p>
+                  <hi>John</hi> III. King of <hi>Po<g ref="char:EOLhyphen"/>land,</hi> was Elected King of <hi>Poland,</hi> 1673.</p>
+               <p>The Queen of <hi>Po<g ref="char:EOLhyphen"/>land,</hi> daughter to the Marquis <hi>d' Arqnin.</hi>
+               </p>
+               <p>Their Children,</p>
+               <p n="1">1. <hi>James,</hi>
+               </p>
+               <p>He Married <hi>Hedwig Elizabeth,</hi> daughter to <hi>Philip William,</hi> Duke of <hi>Neuburg,</hi> and Elector Palatin, 1691.</p>
+               <p n="2">2. <hi>Alexander.</hi>
+               </p>
+               <p n="3">3. <hi>Johannes.</hi>
+               </p>
+               <p n="4">4. <hi>Caſimir.</hi>
+               </p>
+               <p n="5">5. <hi>Leopold.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:37774:23"/>
+               <head>Portugal.</head>
+               <head type="sub">
+                  <hi>The Houſe of</hi> Bragan<g ref="char:EOLhyphen"/>za.</head>
+               <div n="1" type="section">
+                  <head>§. I.</head>
+                  <p>
+                     <hi>DOn Pedro,</hi> King of <hi>Portugal,</hi> born, 16<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.</p>
+                  <p>He was Elected Prince Regent, 1668.</p>
+                  <p>He Succeeded his Brother <hi>Alfonſo,</hi> 1683.</p>
+                  <p>
+                     <hi>Mary Sophia,</hi> Queen of <hi>Portugal,</hi> daughter to <hi>Philip William,</hi> Duke of
+<pb n="39" facs="tcp:37774:23"/>
+                     <hi>Neuburg,</hi> and Elector Palatin, born <hi>Aug.</hi> the 6th, 1666.</p>
+                  <p>Married to the King, 1687.</p>
+                  <p>Their Children,</p>
+                  <p n="1">1. <hi>Don N.</hi> born <hi>Aug.</hi> the 30th, 1688.</p>
+                  <p n="2">2. The Prince of <hi>Breſil,</hi> born in <hi>Octob.</hi> 1689.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>
+                        <hi>Dan Pedro,</hi> in a for<g ref="char:EOLhyphen"/>mer Marriage with <hi>Ma<g ref="char:EOLhyphen"/>ry Franciſca,</hi> daughter to <hi>Charles Amade</hi> of <hi>Savoy,</hi>
+                        <pb n="40" facs="tcp:37774:24"/>Duke of <hi>Nemours,</hi> his Brother's Wife, had one daughter, <hi>Mary Eliza<g ref="char:EOLhyphen"/>beth,</hi> born, 1669.</p>
+                     <p>Died, 1690.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <head>§. II.</head>
+                  <p>THe preſent King of <hi>Portugal</hi> has but one Siſter alive, <hi>Cathe<g ref="char:EOLhyphen"/>rine</hi> the Queen Dowa<g ref="char:EOLhyphen"/>ger, born <hi>Nov.</hi> the 14, 1638.</p>
+                  <p>Married to King <hi>Charles</hi> the II. 1662.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:37774:24"/>
+               <head>The VIII. Ele<g ref="char:EOLhyphen"/>ctors of the <hi>German Empire.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>(1.) <hi>The Eccleſiaſtical.</hi>
+                  </head>
+                  <p n="1">I. The Archbiſhop and Elector of <hi>Mentz.</hi>
+                  </p>
+                  <p n="2">II. The Archbiſhop and Elector of <hi>Cologne.</hi>
+                  </p>
+                  <p>Prince <hi>Clement</hi> of <hi>Ba<g ref="char:EOLhyphen"/>varia,</hi> born <hi>Decem.</hi> the 5th, 1671.</p>
+                  <p>He was Elected Arch<g ref="char:EOLhyphen"/>biſhop and Elector of
+<pb n="42" facs="tcp:37774:25"/>
+                     <hi>Cologne, July</hi> the 14th, 1688.</p>
+                  <p>He is beſides Biſhop of <hi>Ratisbonne</hi> and <hi>Frei<g ref="char:EOLhyphen"/>ſing.</hi>
+                  </p>
+                  <p n="3">III. The Archbiſhop and Elector of <hi>Frevire.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>(2.) <hi>The Secular.</hi>
+                  </head>
+                  <p n="4">IV. The Elector and King of <hi>Bohemia.</hi>
+                  </p>
+                  <p n="5">V. The Elector of <hi>Bavaria, Maximilian Ma<g ref="char:EOLhyphen"/>ry,</hi> born <hi>June</hi> the 11th, 1662.</p>
+                  <pb n="43" facs="tcp:37774:25"/>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>May</hi> the 26th, 1679.</p>
+                  <p>
+                     <hi>Mary Antonia,</hi> Electrſs and Dutcheſs of <hi>Bava<g ref="char:EOLhyphen"/>ria,</hi> daughter to <hi>Leopold</hi> the Emperour, born <hi>Jan.</hi> the 18th, 1669.</p>
+                  <p>Married to the Ele<g ref="char:EOLhyphen"/>ctor, 1686.</p>
+                  <p>They have had but one Child, born <hi>May</hi> the 21, 1689.</p>
+                  <p>Died the ſame year.</p>
+                  <p>The preſent Elector, has but one Brother, and one Siſter alive.</p>
+                  <pb n="44" facs="tcp:37774:26"/>
+                  <p>I. <hi>Clement.</hi>
+                  </p>
+                  <p>II. <hi>Violanta Beatrix,</hi> born <hi>Jan.</hi> the 23, 1673.</p>
+                  <p>Married to the Prince of <hi>Tuſcany,</hi> 1688.</p>
+                  <p n="6">VI. The Elector of <hi>Saxony.</hi>
+                  </p>
+                  <div n="1" type="subsection">
+                     <head>§ I.</head>
+                     <p>
+                        <hi>JOhn George</hi> III. born <hi>June</hi> the 20th, 1647.</p>
+                     <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>Aug.</hi> 22th, 1680.</p>
+                     <p>
+                        <hi>Anne Sophia,</hi> Electreſs and Dutcheſs of <hi>Saxony,</hi> Siſter to the preſent King of <hi>Denmark,</hi> born, 1647.</p>
+                     <pb n="45" facs="tcp:37774:26"/>
+                     <p>Married to the Ele<g ref="char:EOLhyphen"/>ctor, <hi>Oct.</hi> the 9th, 1666.</p>
+                     <p>Their Children,</p>
+                     <p n="1">1. <hi>John George,</hi> the Electoral Prince, born <hi>Octob.</hi> the 17th, 1668.</p>
+                     <p n="2">2. <hi>Frederic Auguſt,</hi> born <hi>May</hi> the 12th, 1670.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>§. II.</head>
+                     <p>THe Chief Princes of the ſeveral Branches of the Houſe of <hi>Saxony.</hi>
+                     </p>
+                     <pb n="46" facs="tcp:37774:27"/>
+                     <div type="sub-subsection">
+                        <head>(1.) <hi>Of the Erneſtine Line.</hi>
+                        </head>
+                        <p n="1">I. <hi>William Erneſt,</hi> Duke of <hi>Wymar,</hi> born <hi>Octob.</hi> the 19th, 1661.</p>
+                        <p>
+                           <hi>Charlotta Mary,</hi> Dutch<g ref="char:EOLhyphen"/>eſs of <hi>Wymar,</hi> daughter to <hi>Bernard,</hi> Duke of <hi>Jena.</hi>
+                        </p>
+                        <p>Married to the Duke, 1683.</p>
+                        <p n="2">II. <hi>John George,</hi> Duke of <hi>Yſenach,</hi> born <hi>July</hi> the 11th, 1634.</p>
+                        <pb n="47" facs="tcp:37774:27"/>
+                        <p>
+                           <hi>Johannetta,</hi> Dutcheſs of <hi>Yſenach,</hi> daughter to <hi>Erneſt,</hi> Count of <hi>Seyneu.</hi>
+                        </p>
+                        <p>Married to the Duke, 1661.</p>
+                        <p>Their Children now alive.</p>
+                        <p>1. <hi>Eleonora,</hi> born <hi>Apr.</hi> the 13th, 1662.</p>
+                        <p>Married to <hi>John Fre<g ref="char:EOLhyphen"/>deric,</hi> Marcgrave of <hi>Onſ<g ref="char:EOLhyphen"/>pach, Nov.</hi> the 4th, 1681.</p>
+                        <p>Now Widow.</p>
+                        <p>2. <hi>John George,</hi> born <hi>July</hi> the 25th, 1665.</p>
+                        <pb n="48" facs="tcp:37774:28"/>
+                        <p>3. <hi>John William,</hi> born <hi>July</hi> the 22d 1668.</p>
+                        <p>4. <hi>Frederica Elizabeth,</hi> born <hi>May</hi> the 5th, 1669.</p>
+                        <p n="3">III. <hi>John William,</hi> Duke of <hi>Jena,</hi> born <hi>March</hi> the 28th, 1675.</p>
+                        <p n="4">IV. <hi>Frederic</hi> X. Duke of <hi>Gotha,</hi> born <hi>July</hi> the 28th, 1679.</p>
+                        <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>Aug.</hi> the 12th, 1691.</p>
+                        <p>He has four Siſters, and one Brother alive.</p>
+                        <pb n="49" facs="tcp:37774:28"/>
+                        <p>1. <hi>Anne Sophie,</hi> born <hi>Decem.</hi> the 22th, 1670.</p>
+                        <p>2. <hi>Dorothe Mary,</hi> born <hi>Jan.</hi> the 22th, 1674.</p>
+                        <p>3. <hi>Frederica,</hi> born <hi>March</hi> the 25th, 1675.</p>
+                        <p>4. <hi>John William,</hi> born <hi>Octob.</hi> the 4th, 1677.</p>
+                        <p>5. <hi>Joan,</hi> born <hi>Octob.</hi> the firſt, 1680.</p>
+                        <p>He has beſides ſeve<g ref="char:EOLhyphen"/>ral Uncles of his Fa<g ref="char:EOLhyphen"/>thers ſide,</p>
+                        <p>I. <hi>Albert,</hi> Duke of <hi>Co<g ref="char:EOLhyphen"/>burg,</hi> Born <hi>May</hi> the 24, 1648.</p>
+                        <pb n="50" facs="tcp:37774:29"/>
+                        <p>II. Duke <hi>Bernard,</hi> who reſides at the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Meinungen,</hi> in the County of <hi>Henneberg,</hi> Born <hi>Sept.</hi> the 15th, 1649.</p>
+                        <p>III. Duke <hi>Henry,</hi> who reſides at <hi>Romhild,</hi> Born <hi>Nov.</hi> the 19th, 1650.</p>
+                        <p>IV. Duke <hi>Chriſtian,</hi> who reſides at <hi>Eiſenberg,</hi> Born <hi>Jan.</hi> the 6th, 1653.</p>
+                        <p>V. Duke <hi>Erneſt,</hi> who reſides at <hi>Eisfeild,</hi> Born <hi>July</hi> the 12th, 1655.</p>
+                        <p>VI. Duke <hi>John Erneſt,</hi> who reſides at <hi>Salfeld,</hi>
+                           <pb n="51" facs="tcp:37774:29"/>Born <hi>Auguſt</hi> the 22th, 1658.</p>
+                     </div>
+                     <div type="sub-subsection">
+                        <head>(2.) <hi>Of the Albertine-Line.</hi>
+                        </head>
+                        <p n="1">I. <hi>John Adolf,</hi> Duke of <hi>Weiſſemfels,</hi> born <hi>Nov.</hi> the 2d. 1649.</p>
+                        <p>He Married <hi>Joan Magdalen,</hi> daughter to <hi>Frederic,</hi> Duke of <hi>Alten<g ref="char:EOLhyphen"/>burg,</hi> who died, 1686.</p>
+                        <p>His Children alive,</p>
+                        <p>1. <hi>Magdalen Sibill,</hi> born <hi>Sept.</hi> the 3d. 1673.</p>
+                        <pb n="52" facs="tcp:37774:30"/>
+                        <p>2. <hi>John George,</hi> born <hi>July</hi> the 13th, 1677.</p>
+                        <p>3. <hi>Joan Withelmine,</hi> born <hi>Jan.</hi> the 20th, 1680.</p>
+                        <p>4. <hi>Chriſtian,</hi> born <hi>Feb.</hi> the 28th, 1682.</p>
+                        <p>5. <hi>Anne Mary,</hi> born <hi>June</hi> the 17th, 1683.</p>
+                        <p n="2">II. <hi>Chriſtian,</hi> Duke of <hi>Mersburg,</hi> born <hi>October</hi> the 27th, 1615.</p>
+                        <p>
+                           <hi>Chriſtina,</hi> Dutcheſs of <hi>Mersburg,</hi> daughter to <hi>Philip</hi> Duke of <hi>Glucks<g ref="char:EOLhyphen"/>burg.</hi>
+                        </p>
+                        <p>Married to the Duke, <hi>Nov.</hi> the 19th, 1650.</p>
+                        <pb n="53" facs="tcp:37774:30"/>
+                        <p>Their Children,</p>
+                        <p>1. <hi>Chriſtian,</hi> born <hi>Nov.</hi> the 19th, 1653.</p>
+                        <p>He has by his Wife, <hi>Erdmuth Dorethe</hi> his Cou<g ref="char:EOLhyphen"/>ſin, three Princes.</p>
+                        <p>(1.) <hi>Chriſtian,</hi> born <hi>Nov.</hi> the 7th, 1680.</p>
+                        <p>(2.) <hi>Mounice William,</hi> born <hi>Octob.</hi> 11th, 1681.</p>
+                        <p>(3.) <hi>Auguſt Frederic,</hi> born <hi>March</hi> the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>th, 1684.</p>
+                        <p>2. <hi>Auguſt,</hi> born <hi>Feb.</hi> the 5th, 1659.</p>
+                        <pb n="54" facs="tcp:37774:31"/>
+                        <p>3. <hi>Philip,</hi> born <hi>Octob,</hi> the 26th, 1657.</p>
+                        <p>4. <hi>Sophia Hedewig,</hi> born <hi>June</hi> the 4th, 1660.</p>
+                        <p>5. <hi>Henry,</hi> born <hi>Sept.</hi> the 2d. 1661.</p>
+                        <p>6. <hi>Sibill Mary,</hi> Born <hi>Octob.</hi> the 28th, 1667.</p>
+                        <p>They are all Married except Prince <hi>Henry.</hi>
+                        </p>
+                        <p n="3">III. <hi>Maurice William,</hi> Duke of <hi>Naumburg,</hi> born <hi>March</hi> the 12th, 1664.</p>
+                        <p>He Married <hi>Mary,</hi> daughter to <hi>Frederic Wil<g ref="char:EOLhyphen"/>liam,</hi>
+                           <pb n="55" facs="tcp:37774:31"/>Elector of <hi>Branden<g ref="char:EOLhyphen"/>burg,</hi> to the Duke of <hi>Mecklenburg's</hi> Widow, <hi>June</hi> the 26th, 1689.</p>
+                        <p>He has 2 Brothers, and as many Siſters alive.</p>
+                        <p>1. <hi>Erdmuth Dorothee,</hi> born, 1661.</p>
+                        <p>Married to Duke <hi>Chriſtian</hi> of <hi>Merſeburg,</hi> 1679.</p>
+                        <p>2. <hi>Chriſtian Auguſt,</hi> born <hi>Octob.</hi> the 9th, 1666.</p>
+                        <p>3. <hi>Frederic Henry,</hi> born <hi>July</hi> the 21ſt, 1668.</p>
+                        <pb n="56" facs="tcp:37774:32"/>
+                        <p>4. <hi>Withelmine Sibill,</hi> born, 1675.</p>
+                        <p>In fine, there are <hi>42</hi> Princes of the Houſe of <hi>Saxony</hi> alive.</p>
+                     </div>
+                  </div>
+                  <div n="1" type="subsection">
+                     <head>§. I.</head>
+                     <p n="7">VII. THe Elector of <hi>Brandenburg,</hi>
+                     </p>
+                     <p>
+                        <hi>Frederic</hi> III, born <hi>July</hi> the firſt, 1657.</p>
+                     <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>Apr.</hi> the 29th, 1688.</p>
+                     <p>
+                        <hi>Sophia Charlotta,</hi> Ele<g ref="char:EOLhyphen"/>ctreſs of <hi>Brandenburg,</hi>
+                        <pb n="57" facs="tcp:37774:32"/>daughter to <hi>Erneſt Au<g ref="char:EOLhyphen"/>guſt,</hi> Duke of <hi>Honover,</hi> born <hi>October</hi> the 20th, 1668.</p>
+                     <p>Married to the Ele<g ref="char:EOLhyphen"/>ctor, <hi>Oct.</hi> the 6th, 1684.</p>
+                     <p>Their Children,</p>
+                     <p n="1">1. <hi>Frederic Auguſt,</hi> born <hi>Oct.</hi> the 6th, 1685.</p>
+                     <p>Died, <hi>Feb.</hi> the 21ſt. 1686.</p>
+                     <p n="2">2. <hi>Frederic William,</hi> the Electoral Prince, born <hi>Auguſt</hi> the 4th, 1688.</p>
+                     <div type="sub-subsection">
+                        <pb n="58" facs="tcp:37774:33"/>
+                        <head>Remark,</head>
+                        <p>The Elector in a for<g ref="char:EOLhyphen"/>mer Marriage with <hi>Eli<g ref="char:EOLhyphen"/>zabeth Henrica,</hi> the pre<g ref="char:EOLhyphen"/>ſent Landgrave of <hi>Heſs</hi>'s Siſter, (who died <hi>June</hi> the 27th, 1683.)</p>
+                        <p>Had one daughter.</p>
+                        <p>
+                           <hi>Louiſa Dorothea Sophia,</hi> born <hi>Septem,</hi> the 19th, 1680.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="subsection">
+                     <pb n="59" facs="tcp:37774:33"/>
+                     <head>§. II.</head>
+                     <p>THe preſent Elector has four Brothers, and two Siſters, alive.</p>
+                     <p n="1">1. <hi>Philip William,</hi> born in <hi>May,</hi> 1669.</p>
+                     <p n="2">2. <hi>Mary Amalia,</hi> born <hi>Nov.</hi> the 16th, 1670.</p>
+                     <p>Married to <hi>Maurice William,</hi> Duke of <hi>Saxony Naumb.</hi>
+                     </p>
+                     <p n="3">3. <hi>Albert Frederic,</hi> born <hi>Jan.</hi> the 14th, 1672.</p>
+                     <p n="4">4. <hi>Charles Philip,</hi> born <hi>Decem.</hi> the 26th, 1672.</p>
+                     <pb n="60" facs="tcp:37774:34"/>
+                     <p n="5">5. <hi>Elizabeth Sophia,</hi> born <hi>March</hi> the 26th, 1674.</p>
+                     <p n="6">6. <hi>Chriſtian Lewis,</hi> born <hi>May</hi> the 14th, 1677.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>§. III.</head>
+                     <p>THe Chief Princes of the ſeveral Branches of the Houſe of <hi>Brandenburg.</hi>
+                     </p>
+                     <p n="1">I. <hi>Chriſtian Erneſt, Markgrave</hi> of <hi>Bareith,</hi> born <hi>July</hi> the 27th, 1644.</p>
+                     <p>
+                        <hi>Sophia Louiſa Marchio<g ref="char:EOLhyphen"/>neſs</hi> of <hi>Bareith,</hi> daugh<g ref="char:EOLhyphen"/>ter
+<pb n="61" facs="tcp:37774:34"/>to <hi>Eberhard</hi> the III, Duke of <hi>Wirtemberg.</hi>
+                     </p>
+                     <p>Their Children,</p>
+                     <p>1. <hi>Chriſtiana Eberhar<g ref="char:EOLhyphen"/>dina,</hi> born <hi>Decem.</hi> the 19th, 1671.</p>
+                     <p>2. <hi>Eleonora Magdalen,</hi> born <hi>Jan.</hi> the 14th, 1673.</p>
+                     <p>3. <hi>George William,</hi> born <hi>Nov.</hi> the 16th, 1678.</p>
+                     <p n="2">II. <hi>Chriſtian Henry, Markgrave</hi> of <hi>Culmback,</hi> born <hi>July</hi> the 19th, 1661.</p>
+                     <pb n="62" facs="tcp:37774:35"/>
+                     <p>He has two Brothers, <hi>Charles Auguſt,</hi> born, 1663.</p>
+                     <p>And <hi>George Albert,</hi> born, 1666.</p>
+                     <p n="3">III. <hi>Chriſtian Albert,</hi> Markgrave of <hi>Onſpach.,</hi> Born <hi>Sept.</hi> the 8th, 1675.</p>
+                     <p>He has two Bro<g ref="char:EOLhyphen"/>thers, and as many Si<g ref="char:EOLhyphen"/>ſters alive.</p>
+                     <p>1. <hi>Dorothea Frederica,</hi> Born <hi>Aug.</hi> the 12th, 1676.</p>
+                     <p>2. <hi>George Frederic,</hi> born <hi>Apr.</hi> the 25th, 1678.</p>
+                     <pb n="63" facs="tcp:37774:35"/>
+                     <p>3. <hi>Withelmina Charlotta,</hi> Born <hi>March</hi> the firſt, 1683.</p>
+                     <p>4. <hi>William Frederic,</hi> Born <hi>Dec.</hi> the 29th, 1685.</p>
+                     <p>There are 14 Princes of the Houſe of <hi>Bran<g ref="char:EOLhyphen"/>denburg</hi> alive.</p>
+                  </div>
+                  <div n="1" type="subsection">
+                     <head>§. I.</head>
+                     <p n="8">VIII. THe Elector Palatin,</p>
+                     <p>
+                        <hi>John William,</hi> Elector Palatin, and Duke of <hi>Newburg,</hi> Born <hi>Apr.</hi> the 19th, 1658.</p>
+                     <pb n="64" facs="tcp:37774:36"/>
+                     <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1690.</p>
+                     <p>The Electreſs and Counteſs Palatin, daugh<g ref="char:EOLhyphen"/>ter to <hi>Coſmus</hi> the III, Great Duke of <hi>Tu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s;cany,</hi> was Married to the Ele<g ref="char:EOLhyphen"/>ctor, 1691.</p>
+                     <div type="sub-subsection">
+                        <head>Remark,</head>
+                        <p>The preſent Elector, had by his former Wife <hi>Mary Anne,</hi> Siſter to the preſent Emperour, (who died 1689.) but one
+<pb n="65" facs="tcp:37774:36"/>Child that came dead to the World, 1683.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>§. II.</head>
+                     <p>THe preſent Ele<g ref="char:EOLhyphen"/>ctor, has 6 Si<g ref="char:EOLhyphen"/>ſters, and as many Bro<g ref="char:EOLhyphen"/>thers alive.</p>
+                     <p>His Siſters are,</p>
+                     <p n="1">1. <hi>Eleonora,</hi> Empreſs of Germany, Born <hi>Jan.</hi> the 6th, 1655.</p>
+                     <p n="2">2. <hi>Mary Sophia,</hi> Queen of <hi>Portugal,</hi> Born <hi>Auguſt</hi> the 6th, 1666.</p>
+                     <pb n="66" facs="tcp:37774:37"/>
+                     <p n="3">3. <hi>Mary Anne,</hi> Queen of <hi>Spain,</hi> Born <hi>Octob.</hi> the 28th, 1667.</p>
+                     <p n="4">4. <hi>Dorothea Sophia</hi> Princeſs of <hi>Poland,</hi> Born <hi>July</hi> the 12th, 1670.</p>
+                     <p n="5">5. <hi>Hedewig Elizabeth,</hi> Born <hi>July</hi> the 18th, 1673.</p>
+                     <p n="6">6. <hi>Leopoldine Eleonore,</hi> born <hi>May</hi> the 27th, 1679.</p>
+                     <p>His Brothers are,</p>
+                     <p n="1">1. <hi>Lewis,</hi> Great Ma<g ref="char:EOLhyphen"/>ſter of the <hi>Teutonick</hi> Or<g ref="char:EOLhyphen"/>der, Born <hi>July</hi> the 9th, 1660.</p>
+                     <pb n="67" facs="tcp:37774:37"/>
+                     <p n="2">2. <hi>Charles,</hi> born <hi>Nov.</hi> the 4th, 1661.</p>
+                     <p>He Married <hi>Louiſa Charlotta,</hi> Princeſs of <hi>Radzevil, July</hi> the 24th, 1688.</p>
+                     <p n="3">3. <hi>Alexander,</hi> Biſhop of <hi>Augsburg,</hi> born <hi>April</hi> the 16th, 1663.</p>
+                     <p n="4">4. <hi>Francis,</hi> Biſhop of <hi>Breſlau,</hi> born <hi>July</hi> the 24th, 1683.</p>
+                     <p n="5">5. <hi>Frederic,</hi> born <hi>July</hi> the 20th, 1665.</p>
+                     <p n="6">6. <hi>Philip,</hi> born <hi>Nov.</hi> the 18th, 1668.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <pb n="68" facs="tcp:37774:38"/>
+                     <head>§. III.</head>
+                     <p>
+                        <hi>THe Branch of</hi> Sultz<g ref="char:EOLhyphen"/>bach, <hi>of the Houſe Palatin.</hi>
+                     </p>
+                     <p>
+                        <hi>Chriſtian Auguſt,</hi> Count Palatin of <hi>Sultzback,</hi> born <hi>July</hi> the 16th, 1622.</p>
+                     <p>He has by his Wife <hi>Amalia</hi> of <hi>Naſſau,</hi> but one Prince alive, who is <hi>Theodore,</hi> born <hi>Febr.</hi> the 14th, 1659.</p>
+                     <p>
+                        <hi>Philip,</hi> his Brother, born <hi>Jan</hi> 19th, 1630.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:37774:38"/>
+               <head>The Princes of the Em<g ref="char:EOLhyphen"/>pire.</head>
+               <div n="1" type="section">
+                  <head type="sub">The Houſe of <hi>Brunſ<g ref="char:EOLhyphen"/>wig,</hi> and <hi>Lunenburg.</hi>
+                  </head>
+                  <div n="1" type="subsection">
+                     <head>1. <hi>The Houſe of</hi> Wol<g ref="char:EOLhyphen"/>fembuttel.</head>
+                     <p n="1">I. <hi>Rudolf Auguſt,</hi> Duke of <hi>Wolfembuttel,</hi> born <hi>May</hi> the 16th, 1628.</p>
+                     <p>He had by his Wife <hi>Chriſtina Elizabeth,</hi> three daughters, of which 2 are alive.</p>
+                     <pb n="70" facs="tcp:37774:39"/>
+                     <p>1. <hi>Dorothea Sophia,</hi> born <hi>Jan.</hi> he 18th, 1653.</p>
+                     <p>Married to <hi>John Adolf,</hi> Duke of <hi>Ploen,</hi> 1673.</p>
+                     <p>2. <hi>Chriſtina Sophia,</hi> born <hi>Apr.</hi> the 3d. 1654.</p>
+                     <p>Married to her Cou<g ref="char:EOLhyphen"/>ſin Duke <hi>Auguſt William,</hi> 1681.</p>
+                     <p n="2">II. <hi>Anthony Ulric,</hi> who Governs the Country, together with his Bro<g ref="char:EOLhyphen"/>ther <hi>Rudolf Auguſt,</hi> born <hi>Octob.</hi> the 4th, 1633.</p>
+                     <p>
+                        <hi>Elizabeth Juliana,</hi> Dutcheſs of <hi>Wolfembuttel,</hi> Born <hi>May</hi> the 24th, 1634.</p>
+                     <pb n="71" facs="tcp:37774:39"/>
+                     <p>Married to the Duke, <hi>Aug.</hi> the 17th, 1656.</p>
+                     <p>Their Children now alive.</p>
+                     <p>1. <hi>Elizabeth Eleonora,</hi> Born 1658.</p>
+                     <p>Married to <hi>Bernard,</hi> Duke of <hi>Saxony.</hi>
+                     </p>
+                     <p>2. <hi>Anne Sophia,</hi> Born <hi>Octob.</hi> the 28th, 1659.</p>
+                     <p>Married to <hi>Charles Guſtave,</hi> Markgrave of <hi>Baden.</hi> 1677.</p>
+                     <p>3. <hi>Auguſt William,</hi> born <hi>March</hi> the 8th, 1662.</p>
+                     <pb n="72" facs="tcp:37774:40"/>
+                     <p>He Married his Cou<g ref="char:EOLhyphen"/>ſin Princeſs, <hi>Chriſtina Sophia.</hi>
+                     </p>
+                     <p>4. <hi>Auguſta Dorothea,</hi> Born <hi>Dec.</hi> the 16th, 1666.</p>
+                     <p>Married to <hi>Anthony Gunther,</hi> Count of <hi>Swartzburg,</hi> 1684.</p>
+                     <p>5. <hi>Henrietta Chriſtina,</hi> Born <hi>September</hi> the 19th, 1669.</p>
+                     <p>6. <hi>Lewis Rudolf,</hi> born <hi>July</hi> the 22th, 1671.</p>
+                     <p n="3">III. <hi>Auguſt Ferdinand</hi> Duke of <hi>Bevern,</hi> Born 1677.</p>
+                     <pb n="73" facs="tcp:37774:40"/>
+                     <p>He has three Brothers and one Siſter alive.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>2. <hi>The Houſe of</hi> Brunſ<g ref="char:EOLhyphen"/>wig, Lunenburg-Zell.</head>
+                     <p n="1">I. <hi>George VVilliam,</hi> Duke of <hi>Zelle,</hi> Born <hi>Febr.</hi> the 16th, 1624.</p>
+                     <p>
+                        <hi>Eleonora Deſiniers,</hi> Dutcheſs of <hi>Zell,</hi> for<g ref="char:EOLhyphen"/>merly call'd Madam <hi>d' Harbourg.</hi>
+                     </p>
+                     <p>They have but one daughter <hi>Sophia Dorothea,</hi> Born <hi>Septemb.</hi> the 15th, 1666.</p>
+                     <pb n="74" facs="tcp:37774:41"/>
+                     <p>Married to <hi>George Lewis,</hi> Prince of <hi>Hano<g ref="char:EOLhyphen"/>ver,</hi> her Couſin, <hi>Nov.</hi> the 21ſt. 1682.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>3. <hi>The Houſe of</hi> Brunſ<g ref="char:EOLhyphen"/>wig, Lunenburg-Hano<g ref="char:EOLhyphen"/>ver.</head>
+                     <p n="2">II. <hi>Erneſt Auguſt,</hi> Duke of <hi>Hanover,</hi> born <hi>Nov.</hi> the 10th, 1629.</p>
+                     <p>
+                        <hi>Sophia,</hi> Dutcheſs of <hi>Hanover,</hi> daughter to the King of <hi>Bohemia,</hi> born <hi>Octob.</hi> the 13th, 1630</p>
+                     <pb n="75" facs="tcp:37774:41"/>
+                     <p>Married to the Duke 1658.</p>
+                     <p>Their Children.</p>
+                     <p n="1">1. <hi>George Lewis,</hi> born <hi>May</hi> the 28th, 1660.</p>
+                     <p>He Married the Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Zell, Nov.</hi> the 21ſt. 1682.</p>
+                     <p n="2">2. <hi>Frederic Auguſt,</hi> born <hi>Octob.</hi> the 3d. 1661.</p>
+                     <p>Died in <hi>Hungary,</hi> 1689.</p>
+                     <p n="3">3. <hi>Maximilian,</hi> born <hi>Decem.</hi> the 14th, 1666.</p>
+                     <p>Died in <hi>Morea.</hi>
+                     </p>
+                     <pb n="76" facs="tcp:37774:42"/>
+                     <p n="4">4. <hi>Sophia Charlotta,</hi> born <hi>Octob.</hi> the 20th, 1668.</p>
+                     <p>Married to the pre<g ref="char:EOLhyphen"/>ſent Elector of <hi>Branden<g ref="char:EOLhyphen"/>burg, Octob.</hi> the 6th, 1684.</p>
+                     <p n="5">5. <hi>Charles,</hi> born <hi>Octob.</hi> the 23d. 1669.</p>
+                     <p>Died in <hi>Hungary,</hi> 1690.</p>
+                     <p n="6">6. <hi>Chriſtian,</hi> born <hi>Sept.</hi> the 29th, 1671.</p>
+                     <p n="7">7. <hi>Erneſt Auguſt,</hi> born <hi>Sept.</hi> the 17th, 1674.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="77" facs="tcp:37774:42"/>
+                  <head>§. II.</head>
+                  <head>
+                     <hi>THe Houſe of</hi> Heſs,</head>
+                  <div n="1" type="subsection">
+                     <head>(1.) <hi>Heſs-Caſſel.</hi>
+                     </head>
+                     <p n="1">I. <hi>Charles,</hi> Landgrave of <hi>Heſs-Caſſel,</hi> born <hi>Aug.</hi> the 3d. 1654.</p>
+                     <p>
+                        <hi>Mary Amalia,</hi> Princeſs of <hi>Heſs-Caſſel,</hi> Siſter to <hi>Frederic Caſimir,</hi> the pre<g ref="char:EOLhyphen"/>ſent Duke of <hi>Curland,</hi> born <hi>May</hi> the 21ſt. 1673.</p>
+                     <p>Married to the Land<g ref="char:EOLhyphen"/>grave, <hi>May</hi> the 21ſt. 1673.</p>
+                     <pb n="78" facs="tcp:37774:43"/>
+                     <p>Their Children,</p>
+                     <p>1. <hi>William,</hi> born <hi>March</hi> the 29th, 1674</p>
+                     <p>Since Dead.</p>
+                     <p>2. <hi>Charles,</hi> born, 1675.</p>
+                     <p>Died <hi>Decem.</hi> the 7th, 1677.</p>
+                     <p>3. <hi>Frederic,</hi> the here<g ref="char:EOLhyphen"/>ditary Prince, born <hi>Apr.</hi> the 28th, 1676.</p>
+                     <p>4. <hi>Chriſtian,</hi> born 1677</p>
+                     <p>Since Dead.</p>
+                     <p>5. <hi>Sophia Charlotta,</hi> born <hi>July</hi> the 16th, 1678.</p>
+                     <pb n="79" facs="tcp:37774:43"/>
+                     <p>6. <hi>Charles,</hi> born <hi>June</hi> the 12th, 1680.</p>
+                     <p>7. <hi>William,</hi> born 1682.</p>
+                     <p>Died the ſame year.</p>
+                     <p>8. <hi>Leopold,</hi> born <hi>Nov.</hi> the 30th, 1684.</p>
+                     <p n="2">II. <hi>Philip,</hi> Prince of <hi>Hirſchfeld,</hi> born <hi>Dec.</hi> the 14th, 1654.</p>
+                     <p>He has with <hi>Amalia Catherina,</hi> of <hi>Solms,</hi> two Children.</p>
+                     <p>1. <hi>Withelmina Hedewig,</hi> born <hi>Octob.</hi> the 9th, 1681.</p>
+                     <p>2. <hi>Charles,</hi> born <hi>Sept.</hi> the 23d, 1682.</p>
+                     <pb n="80" facs="tcp:37774:44"/>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. <hi>Heſs-Darmſtad.</hi>
+                     </head>
+                     <p>
+                        <hi>Erneſt Lewis,</hi> Land<g ref="char:EOLhyphen"/>grave of <hi>Heſs-Darmſtad,</hi> born <hi>Dec.</hi> the 15th, 1667.</p>
+                     <p>He Married <hi>Charlotte,</hi> Princeſs of <hi>Onſpach,</hi> 1678.</p>
+                     <p>His Brothers and Si<g ref="char:EOLhyphen"/>ſtets alive are,</p>
+                     <p n="1">1. <hi>Magdalen,</hi> Dowa<g ref="char:EOLhyphen"/>ger of <hi>Wirtemberg,</hi> born <hi>Apr.</hi> the 28th, 1652.</p>
+                     <p n="2">2. <hi>George,</hi> Brigadier General of the Army in <hi>Ireland,</hi> born <hi>April</hi> the 25th, 1669.</p>
+                     <pb n="81" facs="tcp:37774:44"/>
+                     <p n="3">3. <hi>Sophia Louiſa,</hi> born <hi>July</hi> the 6th, 1670.</p>
+                     <p n="4">4. <hi>Philip,</hi> born <hi>July</hi> the 21ſt, 1671.</p>
+                     <p n="5">5. <hi>Henry,</hi> born <hi>Sept.</hi> the 29th, 1674.</p>
+                     <p n="6">6. <hi>Elizabeth Dorothee,</hi> Born <hi>Apr.</hi> the 2d, 1676.</p>
+                     <p n="7">7. <hi>Frederic,</hi> born <hi>Sept.</hi> the 18th, 1677.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>(3.) <hi>The Branch of Homburg.</hi>
+                     </head>
+                     <p>
+                        <hi>Frederic,</hi> Landgrave of <hi>Homburg,</hi> born, 1673.</p>
+                     <pb n="82" facs="tcp:37774:45"/>
+                     <p>He has two Brothers, <hi>Charles Chriſtian,</hi> born 1674.</p>
+                     <p>
+                        <hi>Philip,</hi> Born, 1676.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Princes of the Houſe of <hi>Meck<g ref="char:EOLhyphen"/>lenburg.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>(1.) <hi>Mecklenburg-Swe<g ref="char:EOLhyphen"/>rin.</hi>
+                  </head>
+                  <p>
+                     <hi>Chriſtian Lewis,</hi> Duke of <hi>Mecklenburg-Swerin,</hi> born <hi>December</hi> the firſt, 1623.</p>
+                  <pb n="83" facs="tcp:37774:45"/>
+                  <p>He's turn'd Papiſt, and lives in <hi>France,</hi> where he Married <hi>Iſa<g ref="char:EOLhyphen"/>bella Angelica,</hi> of <hi>Mom<g ref="char:EOLhyphen"/>motanci,</hi> the Duke <hi>de Chatillons</hi> Widow, he has no Children.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>(2.) <hi>Mecklenburg-Gu<g ref="char:EOLhyphen"/>ſtrow.</hi>
+                  </head>
+                  <p>
+                     <hi>Guſtave Adolf,</hi> Duke of <hi>Mecklanburg-Guſtrow,</hi> Born <hi>February</hi> the 26th, 1633.</p>
+                  <p>
+                     <hi>Magdalen Sibill,</hi> Dutch<g ref="char:EOLhyphen"/>eſs of <hi>Guſtrow,</hi> born, 1631.</p>
+                  <pb n="84" facs="tcp:37774:46"/>
+                  <p>Married to the Duke <hi>Nov.</hi> the 28th, 1654.</p>
+                  <p>Their Children alive,</p>
+                  <p n="1">1. <hi>Mary,</hi> Born, 1659.</p>
+                  <p>Married to her Couſin <hi>Adolf.</hi>
+                  </p>
+                  <p n="2">2. <hi>Magdalen,</hi> born <hi>July</hi> the 4th, 1660.</p>
+                  <p n="3">3. <hi>Sophia,</hi> Born <hi>June</hi> the 21ſt, 1662.</p>
+                  <p n="4">4. <hi>Chriſtina,</hi> born <hi>Aug.</hi> the 14th, 1663.</p>
+                  <p>Married to <hi>Chriſtian Lewis,</hi> Count of <hi>Stolberg.</hi>
+                  </p>
+                  <p n="5">5. <hi>Hedewig Eleonora,</hi> born <hi>Jan.</hi> the 12th, 1666.</p>
+                  <pb n="85" facs="tcp:37774:46"/>
+                  <p n="6">6. <hi>Louiſa,</hi> born <hi>Aug.</hi> the 28th, 1667.</p>
+                  <p n="7">7. <hi>Elizabeth,</hi> born <hi>Sept.</hi> the 13th, 1668.</p>
+                  <p n="8">8. <hi>Auguſta,</hi> born <hi>Dec.</hi> the 3d, 1674.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>Altho' there is no Male-Heir of the Houſe of <hi>Guſtrow,</hi> and that <hi>Chriſtian Lewis,</hi> the Duke Regent of <hi>Swerin,</hi> has no Children at all, yet the Latter, has a Brother, and Brothers Children alive, <hi>viz.</hi>
+                     </p>
+                     <pb n="86" facs="tcp:37774:47"/>
+                     <p n="1">I. His Brothers, <hi>Fre<g ref="char:EOLhyphen"/>deric's,</hi> Duke of <hi>Grabow's</hi> Sons:</p>
+                     <p>1. <hi>Frederic William,</hi> Duke of <hi>Grabow,</hi> born <hi>March</hi> the 13th, 1675.</p>
+                     <p>2. <hi>Charles,</hi> born, 1679.</p>
+                     <p n="2">II. <hi>Adolf Auguſt,</hi> his Brother, reſiding at the Caſtle of <hi>Strelite,</hi> born 1658.</p>
+                     <p>He has with his Wife <hi>Mary,</hi> daughter to <hi>Gu<g ref="char:EOLhyphen"/>ſtav. Adolf,</hi> Duke of <hi>Meck<g ref="char:EOLhyphen"/>lenburg,</hi> one Son, <hi>Gu<g ref="char:EOLhyphen"/>ſtave Adolf.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="87" facs="tcp:37774:47"/>
+               <head>The Princes of the Houſe of <hi>Wirtemberg.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>(1.) <hi>Stutgard.</hi>
+                  </head>
+                  <p>
+                     <hi>Eberhard Lewis,</hi> Duke of <hi>Wirtemberg,</hi> born <hi>Sep.</hi> the 18th, 1676.</p>
+                  <p>He lives ſtill under the Tutorſhip of his Mother and Uncle.</p>
+                  <p>His Mother,</p>
+                  <p>
+                     <hi>Magdalen Sibill,</hi> Dutch<g ref="char:EOLhyphen"/>eſs Dowager of <hi>Wir<g ref="char:EOLhyphen"/>temberg,</hi> daughter to <hi>Lewis</hi> VII. Landgrave
+<pb n="88" facs="tcp:37774:48"/>of <hi>Heſs-Darmſted,</hi> born <hi>Apr.</hi> the 28th, 1652.</p>
+                  <p>His Uncle is,</p>
+                  <p>
+                     <hi>Frederic Charles,</hi> Duke Adminiſtrator of <hi>Wir<g ref="char:EOLhyphen"/>temberg,</hi> Born <hi>Sept.</hi> the 12th, 1652.</p>
+                  <p>He Married <hi>Eleonore,</hi> daughter to <hi>Albert,</hi> Markgrave of <hi>Onſpach,</hi> 1682.</p>
+                  <p>And has by her 3 Children,</p>
+                  <p n="1">1. <hi>Charles Alexander,</hi> Born <hi>January</hi> the 24th, 1684.</p>
+                  <pb n="89" facs="tcp:37774:48"/>
+                  <p n="2">2. <hi>Dorothea Charlot,</hi> Born <hi>September</hi> the firſt, 1685.</p>
+                  <p n="3">3. <hi>Frederic Charles,</hi> Born <hi>Octob.</hi> the 28th, 1686</p>
+                  <p>The Duke Admini<g ref="char:EOLhyphen"/>ſtrator has three Bro<g ref="char:EOLhyphen"/>thers, and four Siſters alive, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. <hi>Sophia Louiſa,</hi> Born <hi>Febr.</hi> the 18th, 1642.</p>
+                  <p>Married to <hi>Chriſtian
+<pb n="90" facs="tcp:37774:49"/>Erneſt,</hi> Markgrave of <hi>Bareith,</hi> 1671.</p>
+                  <p n="2">2. <hi>Chriſtin Charlotte,</hi> Born <hi>October</hi> the 21ſt, 1645.</p>
+                  <p>Married to the late Prince of <hi>Eaſt-Frieſland,</hi> 1662.</p>
+                  <p n="3">3. <hi>Anne Catherin,</hi> born <hi>Nov.</hi> the 27th, 1648,</p>
+                  <p n="4">4. <hi>Charles Maximili<g ref="char:EOLhyphen"/>an,</hi> Born <hi>Sept.</hi> the 28th, 1654.</p>
+                  <p n="5">5. <hi>Lewis,</hi> Born <hi>Auguſt</hi> the 13th, 1661.</p>
+                  <pb n="91" facs="tcp:37774:49"/>
+                  <p n="6">6. <hi>John Frederic,</hi> born <hi>June</hi> the 10th, 1669.</p>
+                  <p n="7">7. <hi>Sophie Charlotte,</hi> Born <hi>February</hi> the 22th, 1671.</p>
+                  <p>The three latter are the Adminiſtrators Bro<g ref="char:EOLhyphen"/>thers and Siſter, but by the Father.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>(2.) <hi>Newſtad.</hi>
+                  </head>
+                  <p>
+                     <hi>Frederic Auguſt,</hi> Duke of <hi>Wirtemberg-Newſtad,</hi>
+                     <pb n="92" facs="tcp:37774:50"/>Born <hi>March</hi> the 12th, 1654.</p>
+                  <p>He has two Brothers alive,</p>
+                  <p n="1">1. <hi>Ferdinand William,</hi> General of the <hi>Daniſh</hi> Forces in <hi>Ireland,</hi> born <hi>Sept.</hi> the 12th 1659.</p>
+                  <p n="2">2. <hi>Charles Rudolf,</hi> born 1667.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>(3.) <hi>Mompelgard,</hi>
+                  </head>
+                  <p>
+                     <hi>George</hi> II. Duke of
+<pb n="93" facs="tcp:37774:50"/>
+                     <hi>Wirtemberg Mompelgard,</hi> born <hi>October</hi> the 5th, 1626.</p>
+                  <p>He was depriv'd of his Country by the <hi>French</hi> King, 1684.</p>
+                  <p>There is another Branch of the Houſe of <hi>Wirtemberg,</hi> that is now in P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſeſſion of the Principality of <hi>Oels,</hi> in <hi>Sileſia,</hi> of which there is now alive,</p>
+                  <pb n="94" facs="tcp:37774:51"/>
+                  <p n="1">1. <hi>Sylvius Frederic,</hi> born <hi>February</hi> the 21ſt, 1651.</p>
+                  <p n="2">2. <hi>Chriſtian Ulric,</hi> born <hi>Apr.</hi> the 9th, 1652.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Princes of the Houſe of</hi> Baden.</head>
+               <div n="1" type="section">
+                  <head>(1.) <hi>Baden-Baden, Ro<g ref="char:EOLhyphen"/>man Catholicks.</hi>
+                  </head>
+                  <p>
+                     <hi>Lewis William,</hi> Mark<g ref="char:EOLhyphen"/>grave of <hi>Baden,</hi> Gene<g ref="char:EOLhyphen"/>ral of all the Emperor's
+<pb n="95" facs="tcp:37774:51"/>Forces in <hi>Hungary,</hi> born <hi>Apr.</hi> the 8th, 1655.</p>
+                  <p>The <hi>French</hi> King has deprived him of the greateſt part of his Country.</p>
+                  <p>He Married <hi>Anne Mary,</hi> the late Duke of <hi>Saxe Lawenburg's</hi> daugh<g ref="char:EOLhyphen"/>ter, 1691.</p>
+                  <p>He has one Uncle,</p>
+                  <p>
+                     <hi>Herman</hi> the Empe<g ref="char:EOLhyphen"/>rours principal Com<g ref="char:EOLhyphen"/>miſſary
+<pb n="96" facs="tcp:37774:52"/>at the Dyet at <hi>Ratisbonne,</hi> born <hi>Octob.</hi> the 11th, 1628</p>
+               </div>
+               <div n="2" type="section">
+                  <head>(2.) <hi>Baden-Durlach, Proteſtants.</hi>
+                  </head>
+                  <p>
+                     <hi>Frederic,</hi> Markgrave of <hi>Baden-Durlach,</hi> born <hi>Sept.</hi> the 27th, 1647.</p>
+                  <p>He Married <hi>Auguſta Mary,</hi> daughter to <hi>Fre<g ref="char:EOLhyphen"/>deric</hi> Duke of <hi>Gottorp, May</hi> the 15th, 1670.</p>
+                  <pb n="97" facs="tcp:37774:52"/>
+                  <p>
+                     <hi>He has ſix Children alive,</hi>
+                  </p>
+                  <p n="1">1. <hi>Catherine,</hi> born <hi>Oct.</hi> the 10th, 1676.</p>
+                  <p n="2">2. <hi>Charles William,</hi> born <hi>Jan.</hi> 17th, 1679.</p>
+                  <p n="3">3. <hi>Joan Elizabeth,</hi> born <hi>Octob.</hi> the 3d. 1680.</p>
+                  <p n="4">4. <hi>Albertine Frederica,</hi> born <hi>July</hi> the 3d. 1682.</p>
+                  <p n="5">5. <hi>Chriſtoſle,</hi> born <hi>Sept.</hi> the 28th, 1684.</p>
+                  <p n="6">6. <hi>Charlotte Sophie,</hi> born <hi>March</hi> the firſt, 1686.</p>
+                  <pb n="98" facs="tcp:37774:53"/>
+                  <p>
+                     <hi>He has one Brother live,</hi>
+                  </p>
+                  <p>
+                     <hi>Charles Guſtave,</hi> born <hi>Sept.</hi> the 27th, 1648.</p>
+                  <div type="subsection">
+                     <head>Remark,</head>
+                     <p>Prince <hi>Frederic,</hi> of <hi>Durlach,</hi> has two natural Sons, <hi>Frederic</hi> and <hi>Bernard</hi> Barons of <hi>Muntzenheim.</hi>
+                     </p>
+                     <pb n="99" facs="tcp:37774:53"/>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Princes of the Houſe of</hi> Saxe Lawenburg, <hi>and</hi> Anhalt.</head>
+               <div type="section">
+                  <head>Saxe Lawenburg, Ro<g ref="char:EOLhyphen"/>man Catholick.</head>
+                  <p>The laſt Prince of this Family was, <hi>Julius Francis,</hi> who left two daughters behind him, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. <hi>Anne Mary,</hi> Born <hi>June</hi> the 13th, 1672.</p>
+                  <pb n="100" facs="tcp:37774:54"/>
+                  <p>Married to Prince <hi>Lewis</hi> of <hi>Baden,</hi> 1691.</p>
+                  <p n="2">2. <hi>Franciſca,</hi> Born <hi>June</hi> the 21ſt. 1675.</p>
+               </div>
+               <div type="section">
+                  <head>Anhalt, Proteſtant.</head>
+                  <div n="1" type="subsection">
+                     <head>(1.) <hi>Anhalt-Deſſau.</hi>
+                     </head>
+                     <p>
+                        <hi>John George,</hi> Prince of <hi>Anhalt-Deſſau,</hi> Born <hi>Nov.</hi> the 7th, 1627.</p>
+                     <pb n="101" facs="tcp:37774:54"/>
+                     <p>
+                        <hi>Henrica Catherine,</hi> Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Anhalt,</hi> daughter to <hi>Henry Frederic,</hi> Prince of <hi>Orange,</hi> Born, 1637.</p>
+                     <p>Married to the Prince, 1658.</p>
+                     <p>
+                        <hi>Their Children alive.</hi>
+                     </p>
+                     <p n="1">1. <hi>Elizabeth Albertine Abbeſſe,</hi> of <hi>Erfurd,</hi> born 1665.</p>
+                     <p n="2">2. <hi>Amalia,</hi> born, 1666.</p>
+                     <p>Married to Prince <hi>Henry Caſimir,</hi> Stadhol<g ref="char:EOLhyphen"/>der
+<pb n="102" facs="tcp:37774:55"/>of <hi>Frieſland</hi> and <hi>Groningen,</hi> 1684.</p>
+                     <p n="3">3. <hi>Mary Eleonore,</hi> Princeſs Dowager of <hi>Radzivil,</hi> born, 1671.</p>
+                     <p n="4">4. <hi>Henrica Agnes,</hi> born <hi>January</hi> the 9th, 1674.</p>
+                     <p>Married to <hi>Henry,</hi> Duke of <hi>Saxony,</hi> 1689.</p>
+                     <p n="5">5. <hi>Leopold,</hi> the here<g ref="char:EOLhyphen"/>ditary Prince, born <hi>July</hi> the 3d. 1676.</p>
+                     <p n="6">6. <hi>Joan Charlotte,</hi> born <hi>Apr.</hi> the 6th, 1682.</p>
+                     <pb n="103" facs="tcp:37774:55"/>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>(2.) <hi>Anhalt-Bernburg.</hi>
+                     </head>
+                     <p>
+                        <hi>Victor Amadee,</hi> Prince <hi>Anhalt-Bernburg,</hi> born <hi>Octob.</hi> the 6th, 1634.</p>
+                     <p>He Married <hi>Elizabeth,</hi> daughter to <hi>Frederic,</hi> Prince Palatin of <hi>Deux-Ponts, Apr.</hi> the 17th, 1677.</p>
+                     <p>
+                        <hi>Their Children now alive.</hi>
+                     </p>
+                     <pb n="104" facs="tcp:37774:56"/>
+                     <p n="1">1. <hi>Charles Frederic,</hi> born <hi>July</hi> the 13th, 1668.</p>
+                     <p n="2">2. <hi>Lebrecht,</hi> born <hi>June</hi> the 28th, 1669.</p>
+                     <p n="3">3. <hi>John George,</hi> born <hi>Febr.</hi> the 14th, 1674.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>(3.) <hi>Anhalt Hatzge<g ref="char:EOLhyphen"/>roda.</hi>
+                     </head>
+                     <p>
+                        <hi>William</hi> II. born <hi>Aug.</hi> the 18th, 1643.</p>
+                     <p>Married to <hi>Elizabeth,</hi> of <hi>Solms,</hi> 1671.</p>
+                     <pb n="105" facs="tcp:37774:56"/>
+                  </div>
+                  <div n="4" type="subsection">
+                     <head>(4.) <hi>Anhalt-Ploetzknow.</hi>
+                     </head>
+                     <p>
+                        <hi>Immanuel,</hi> Prince of <hi>Anhalt-Ploetzknow.</hi>
+                     </p>
+                     <p>He is the laſt Prince of this Branch.</p>
+                  </div>
+                  <div n="5" type="subsection">
+                     <head>(5.) <hi>Anhalt-Zerbſt.</hi>
+                     </head>
+                     <p>
+                        <hi>Charles William,</hi> Prince of <hi>Anhalt-Zerbſt,</hi> born <hi>Octob,</hi> the 26th, 1652.</p>
+                     <p>He Married <hi>Sophia Auguſta,</hi> daughter to
+<pb n="106" facs="tcp:37774:57"/>the Duke Adminiſtra<g ref="char:EOLhyphen"/>tor of <hi>Magdeburg, June</hi> the 18th, 1676.</p>
+                     <p>Their Children.</p>
+                     <p n="1">1. <hi>John Auguſt,</hi> born <hi>July</hi> the 20th, 1677.</p>
+                     <p n="2">2. <hi>Charles Frederic,</hi> born <hi>July</hi> the 8th, 1678.</p>
+                     <p n="3">3. <hi>Magdalen Auguſta,</hi> born <hi>October</hi> the 20th, 1679.</p>
+                     <pb n="107" facs="tcp:37774:57"/>
+                     <p>He has beſides three Brothers alive, <hi>viz.</hi>
+                     </p>
+                     <p n="1">1. <hi>Antony Gunther,</hi> born <hi>November</hi> the 11th, 1653.</p>
+                     <p n="2">2. <hi>John Adolf,</hi> born <hi>Decem.</hi> the 2d. 1654.</p>
+                     <p n="3">3. <hi>John Lewis,</hi> born <hi>May</hi> the 4th, 1656.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Princes of the Houſe of <hi>Naſſau.</hi>
+               </head>
+               <head type="sub">The Chief of this Fa<g ref="char:EOLhyphen"/>mily
+<pb n="108" facs="tcp:37774:58"/>is <hi>William,</hi> the III. King of Great <hi>Britain:</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>(1.) <hi>Naſſau Siegen.</hi>
+                  </head>
+                  <p>
+                     <hi>William Maurice,</hi> Prince of <hi>Naſſau, Pro<g ref="char:EOLhyphen"/>teſtant,</hi> born <hi>Jan.</hi> the 6th, 1678.</p>
+                  <p>He Married <hi>Erneſtine Charlotte,</hi> daughter to <hi>Adolf,</hi> Prince of <hi>Naſſau-Dillenburg,</hi> by whom he has but one Prince, born <hi>Febr.</hi> the 20th, 1688.</p>
+                  <p>
+                     <hi>John Francis,</hi> Roman
+<pb n="109" facs="tcp:37774:58"/>Catholick, Knight of the <hi>Golden-Fleece,</hi> Gover<g ref="char:EOLhyphen"/>nour of the <hi>Spaniſh Gel<g ref="char:EOLhyphen"/>derland.</hi>
+                  </p>
+                  <p>
+                     <hi>He has been twice Mar<g ref="char:EOLhyphen"/>ried.</hi>
+                  </p>
+                  <p n="1">I. With <hi>Joan Claudia,</hi> Counteſs of <hi>Konigſeck,</hi> who died, 1664.</p>
+                  <p n="2">II. With <hi>Mary,</hi> daugh<g ref="char:EOLhyphen"/>ter to Prince <hi>Herman</hi> of <hi>Baden,</hi> who died, 1668.</p>
+                  <pb n="110" facs="tcp:37774:59"/>
+                  <p>
+                     <hi>He has three daughters alive.</hi>
+                  </p>
+                  <p n="1">1. <hi>Erneſtina Eleonora.</hi>
+                  </p>
+                  <p n="2">2. <hi>Clara Chiliana.</hi>
+                  </p>
+                  <p n="3">3. <hi>Albertina Gabrielis.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>(2.) <hi>Naſſau Dillen<g ref="char:EOLhyphen"/>burg.</hi>
+                  </head>
+                  <p>
+                     <hi>Henry,</hi> Prince of <hi>Naſ<g ref="char:EOLhyphen"/>ſau-Dillenburg,</hi> born <hi>Aug.</hi> the 28th, 1641.</p>
+                  <p>He Married <hi>Dorothea,</hi> daughter to <hi>George</hi> Duke
+<pb n="111" facs="tcp:37774:59"/>of <hi>Lignitz,</hi> and has ſix Children alive, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. <hi>Sophia Auguſta,</hi> born <hi>Apr.</hi> the 18th, 1666.</p>
+                  <p n="2">2. <hi>George Lewis,</hi> born <hi>June</hi> the 21ſt. 1667.</p>
+                  <p n="3">3. <hi>Albertina,</hi> born <hi>Aug.</hi> the 8th, 1668.</p>
+                  <p n="4">4. <hi>William,</hi> born <hi>Aug.</hi> the 28th, 1670.</p>
+                  <p n="5">5. <hi>Adolf,</hi> born <hi>March</hi> the 7th, 1673.</p>
+                  <p n="6">6. <hi>Frederica Amalia,</hi> born in <hi>Decem.</hi> 1674.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="112" facs="tcp:37774:60"/>
+                  <head>(3.) <hi>Naſſau-Dietz.</hi>
+                  </head>
+                  <p>
+                     <hi>Henry Caſimir,</hi> Prince of <hi>Naſſau-Dietz,</hi> Stad<g ref="char:EOLhyphen"/>holder of <hi>Frieſland</hi> and <hi>Groninge,</hi> born in <hi>Jan.</hi> 1657.</p>
+                  <p>He Married <hi>Henrica Amalia,</hi> daughter to <hi>John George</hi> II. Prince of <hi>An<g ref="char:EOLhyphen"/>halt,</hi> 1684.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>(4.) <hi>Naſſau. Hadamar.</hi>
+                  </head>
+                  <pb n="113" facs="tcp:37774:60"/>
+                  <p>
+                     <hi>Francis Alexander,</hi> Prince of <hi>Naſſau-Hada<g ref="char:EOLhyphen"/>mar,</hi> born <hi>Jan.</hi> the 27th, 1674.</p>
+                  <p>He lives under the Tutorſhip of his Uncle, and his Mother in Law.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>(5.) <hi>Naſſau.</hi>
+                  </head>
+                  <p>The Prince of <hi>Naſ<g ref="char:EOLhyphen"/>ſau-Sarbruck,</hi> made a Prince by a Patent, from the Emperour, 1690.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="114" facs="tcp:37774:61"/>
+               <head>The Princes of the Houſe of <hi>Lorrain.</hi>
+               </head>
+               <p>
+                  <hi>Charles Leopold,</hi> the late Duke of <hi>Lorrain;</hi> who Married <hi>Eleonora,</hi> Queen Dowager of <hi>Poland,</hi> has left theſe following Children be<g ref="char:EOLhyphen"/>hind him.</p>
+               <p n="1">1. <hi>Leopold Joſeph,</hi> born <hi>Sept.</hi> the 11th, 1679.</p>
+               <p n="2">2. <hi>Joſeph John,</hi> Born <hi>Nov.</hi> the 24th, 1680.</p>
+               <pb n="115" facs="tcp:37774:61"/>
+               <p n="3">3. <hi>Anonymus,</hi> born <hi>Apr.</hi> the 28th, 1682.</p>
+               <p n="4">4. <hi>Ferdinand Joſeph,</hi> born <hi>Auguſt</hi> the 17th, 1683.</p>
+               <p n="5">5. <hi>Joſeph Innocent,</hi> born <hi>October</hi> the 20th, 1685.</p>
+               <p n="6">6. <hi>Francis Antony,</hi> born <hi>Dec.</hi> the 8th, 1689.</p>
+            </div>
+            <div type="part">
+               <head>The Princes of <hi>Italy.</hi>
+               </head>
+               <p>Pope <hi>Innocent</hi> XII. born at <hi>Naples</hi> in <hi>March,</hi> 1615</p>
+               <pb n="116" facs="tcp:37774:62"/>
+               <p>Choſen <hi>Pope, July</hi> the 11th, 1691.</p>
+               <p>He is Son to the Prince of <hi>Minerbino,</hi> of the Family of <hi>Pignato,</hi> the Chief whereof is the Duke of <hi>Terra Nova,</hi> Grandee of <hi>Spain.</hi>
+               </p>
+               <div type="section">
+                  <head>The Houſe of <hi>Tuſcany.</hi>
+                  </head>
+                  <p>
+                     <hi>Coſmus</hi> III. Great Duke of <hi>Tuſcany,</hi> born, 1642.</p>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1670.</p>
+                  <pb n="117" facs="tcp:37774:62"/>
+                  <p>
+                     <hi>Margaretha Louiſa,</hi> Great Dutcheſs of <hi>Tuſ<g ref="char:EOLhyphen"/>cany,</hi> daughter to <hi>Gaſton,</hi> Duke of <hi>Orleans.</hi>
+                  </p>
+                  <p>They have got but one Prince <hi>Gaſton,</hi> Mar<g ref="char:EOLhyphen"/>ried to <hi>Violanta Beatrix,</hi> Siſter to the preſent Ele<g ref="char:EOLhyphen"/>ctor of <hi>Bavaria,</hi> 1688.</p>
+                  <p>And one Prince Mar<g ref="char:EOLhyphen"/>ried to the preſent Ele<g ref="char:EOLhyphen"/>ctor Palatin, 1691.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III. <hi>The Houſe of</hi> Sa<g ref="char:EOLhyphen"/>voy.</head>
+                  <div n="1" type="subsection">
+                     <pb n="118" facs="tcp:37774:63"/>
+                     <head>§ I.</head>
+                     <p>VIctor <hi>Amadee</hi> II. Duke of <hi>Savoy,</hi> and King of <hi>Cyprus,</hi> born <hi>May</hi> the 17th, 1666.</p>
+                     <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, <hi>June</hi> the 12th, 1675.</p>
+                     <p>
+                        <hi>Anne Mary,</hi> Dutcheſs of <hi>Savoy,</hi> daughter to <hi>Philip,</hi> Duke of <hi>Orle<g ref="char:EOLhyphen"/>ans,</hi>
+                     </p>
+                     <pb n="119" facs="tcp:37774:63"/>
+                     <p>Married to the Duke, <hi>Apr.</hi> the 9th, 1684.</p>
+                     <p>Their Children,</p>
+                     <p n="1">1. <hi>Mary Adelherd,</hi> born <hi>Decem.</hi> the 6th, 1685.</p>
+                     <p n="2">2. Another Princeſs, born <hi>Auguſt</hi> the 30th, 1688.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <pb n="120" facs="tcp:37774:64"/>
+                     <head>§. II.</head>
+                     <p>THe Princes of the Blood of <hi>Savoy.</hi>
+                     </p>
+                     <p n="1">(I.) <hi>Emanuel Philibert,</hi> Prince of <hi>Carignan,</hi> born <hi>Aug.</hi> the 20th, 1628.</p>
+                     <p>And though he was Born Dumb, yet he Married <hi>Mary Catherine, d' Eſte,</hi> 1684.</p>
+                     <pb n="121" facs="tcp:37774:64"/>
+                     <p n="2">(II.) <hi>Lewis Thomas,</hi> Count of <hi>Soiſſons,</hi> Ne<g ref="char:EOLhyphen"/>phew to the Prince of <hi>Carignan,</hi> born <hi>December</hi> the 15th, 1657.</p>
+                     <p>He Married <hi>Urania, de la Cropte,</hi> a <hi>French</hi> Gentle woman, <hi>December</hi> the 17th, 1682.</p>
+                     <p>He has two Brothers, and two Siſters alive, <hi>viz.</hi>
+                     </p>
+                     <pb n="122" facs="tcp:37774:65"/>
+                     <p n="1">1. <hi>Philippe,</hi> born, 1659.</p>
+                     <p n="2">2. Prince <hi>Eugene</hi> of <hi>Savoy,</hi> born, 1665,</p>
+                     <p n="3">3. <hi>Mary,</hi> Born <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> the firſt, 1665.</p>
+                     <p n="4">4. <hi>Aloiſa,</hi> Born <hi>Nov.</hi> the 22d, 1667.</p>
+                  </div>
+               </div>
+               <div n="4" type="section">
+                  <head>IV. <hi>The Houſe of Mantua.</hi>
+                  </head>
+                  <p>
+                     <hi>Charles</hi> III, Duke of <hi>Mantua,</hi> he Married <hi>Iſa<g ref="char:EOLhyphen"/>bella
+<pb n="123" facs="tcp:37774:65"/>Clara,</hi> Arch Duke <hi>Leopolds</hi> Daughter.</p>
+                  <p>
+                     <hi>He has no Children.</hi>
+                  </p>
+                  <p>He Succeeded his Fa<g ref="char:EOLhyphen"/>ther, 1637.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>V. <hi>The Houſe of</hi> Parma, <hi>and</hi> Placentia.</head>
+                  <p>
+                     <hi>Rainutius</hi> II, Duke of <hi>Parma,</hi> and <hi>Placentia:</hi> He Married 1. <hi>Marga<g ref="char:EOLhyphen"/>retha Jolanda,</hi> the Duke
+<pb n="124" facs="tcp:37774:66"/>of <hi>Savoys</hi> Siſter, and after her Death, 2. <hi>Iſa<g ref="char:EOLhyphen"/>bella d' Eſte,</hi> daughter to <hi>Francis,</hi> Duke of <hi>Mo<g ref="char:EOLhyphen"/>dena,</hi> ſince Dead.</p>
+                  <p>He has got but one Prince <hi>Odoard</hi> III.</p>
+                  <pb n="125" facs="tcp:37774:66"/>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>The Houſe of</hi> Mo<g ref="char:EOLhyphen"/>dena.</head>
+                  <p>
+                     <hi>Franciſco,</hi> Duke of <hi>Modena,</hi> born, 1656.</p>
+                  <p>He Married one of the Family of the <hi>Bar<g ref="char:EOLhyphen"/>barins.</hi>
+                  </p>
+                  <p>He has one Uncle, and one Siſter alive, <hi>viz.</hi>
+                  </p>
+                  <pb n="126" facs="tcp:37774:67"/>
+                  <p n="1">1. <hi>Almericus,</hi> Cardi<g ref="char:EOLhyphen"/>nal <hi>d' Eſte.</hi>
+                  </p>
+                  <p n="2">2. <hi>Mary,</hi> born <hi>Sept.</hi> the 25th, 1658.</p>
+                  <p>Married to the late King <hi>James,</hi> 1673.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The Houſe of</hi> Curland.</head>
+                  <p>
+                     <hi>Frederic Caſimir,</hi> Duke of <hi>Curland.</hi>
+                  </p>
+                  <pb n="127" facs="tcp:37774:67"/>
+                  <p n="1">I. He Married <hi>Sophia Amalia,</hi> Princeſs of <hi>Naſſan-Siegen,</hi> who Di<g ref="char:EOLhyphen"/>ed <hi>December</hi> the 25th, 1688.</p>
+                  <p n="2">II. <hi>Elizabeth Sophia,</hi> Siſter to the preſent Elector of <hi>Brandenburg,</hi> 1691.</p>
+                  <p>He has one Brother, and three Siſters alive, <hi>viz.</hi>
+                  </p>
+                  <pb n="128" facs="tcp:37774:68"/>
+                  <p n="1">I. <hi>Ferdinand,</hi> Lieute<g ref="char:EOLhyphen"/>nant General of the Elector of <hi>Brandenburg's</hi> Forces.</p>
+                  <p n="2">II. <hi>Louiſa Elizabeth,</hi> Married to <hi>Frederic,</hi> Landgrave of <hi>Homburg,</hi> 1671.</p>
+                  <p n="3">III. <hi>Mary Amalia,</hi> Married to the preſent Landgrave of <hi>Heſs, May</hi> th 21ſt, 1673.</p>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37774:68"/>
+            <head>
+               <hi>Books Printed, and are to be Sold by</hi> Abel Roper, <hi>at the</hi> Mitre <hi>in</hi> Fleet<g ref="char:EOLhyphen"/>ſtreet.</head>
+            <p n="1">1. ADvice to a Daughter un<g ref="char:EOLhyphen"/>der theſe following Heads, <hi>viz.</hi> Religion, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. A Weeks Exerciſe preparatory towards a worthy Reception of the Lords Supper, in Meditations, Prayers and Ejaculations, before,
+<pb facs="tcp:37774:69"/>at, and after the ho<g ref="char:EOLhyphen"/>ly Communion; alſo Rules and Exerciſes how to live well after it. The ſecond Edition.</p>
+            <p n="3">3. The State of In<g ref="char:EOLhyphen"/>nocence, or the Fall of Man, an <hi>Opera,</hi> written by Mr. <hi>John Dryden,</hi> in Heroick Verſe.</p>
+            <p n="4">4. Advice to a young Lord, written by his Father, under theſe fol<g ref="char:EOLhyphen"/>lowing Heads, <hi>viz.</hi> Re<g ref="char:EOLhyphen"/>ligion, Study, and Exer<g ref="char:EOLhyphen"/>ciſes, Travel, Marriage, Houſe keeping, and Hoſ<g ref="char:EOLhyphen"/>pitality,
+<pb facs="tcp:37774:69"/>of the Court, of Friendſhip, of Plea<g ref="char:EOLhyphen"/>ſure and Idleneſs, and Converſation.</p>
+            <p n="5">5. Love for Money, or the Boarding-School, ſhewing the Folly of thoſe that put their Children therein, and alſo expoſing the ſubtil<g ref="char:EOLhyphen"/>ty of <hi>Jilts</hi> about <hi>London,</hi> &amp;c. A Comedy, Written by <hi>T. D.</hi> Gent.</p>
+            <p n="6">6. <hi>Ovid's Metamorpho<g ref="char:EOLhyphen"/>ſis</hi> Engliſhed, by <hi>George Sandys.</hi> The Eighth E<g ref="char:EOLhyphen"/>dition.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37774:70"/>
+            <head>
+               <hi>Books Sold by</hi> R. South<g ref="char:EOLhyphen"/>by, <hi>at the</hi> Golden-Fleece, <hi>over-againſt the Inner</hi>-Tem<g ref="char:EOLhyphen"/>ple-Gate <hi>in</hi> Fleet-ſtreet.</head>
+            <p n="1">1. THe Folly of Love. A new Satyr on <hi>Women,</hi> price 6<hi>d.</hi>
+            </p>
+            <p n="2">2. The pleaſures of Love and Marriage; a Poem, in praiſe of the fair Sex, in requital for the <hi>Folly of Love,</hi> and ſome other late Satyrs on <hi>Wo<g ref="char:EOLhyphen"/>men,</hi> 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:37774:70"/>
+            <p n="3">3. The <hi>Jacobite-Conven<g ref="char:EOLhyphen"/>ticle,</hi> a Satyrical Poem, price, 6 <hi>d.</hi>
+            </p>
+            <p n="4">4. A Dialogue be<g ref="char:EOLhyphen"/>tween <hi>Claret</hi> and <hi>Darby-Ale,</hi> a Poem, conſidered in an accidental Conver<g ref="char:EOLhyphen"/>ſation between two Gentlemen, 4 <hi>d.</hi>
+            </p>
+            <p n="5">5. The Female-Fire-Ships, a Satyr againſt Whoring, in a Letter to a Friend juſt come to Town, 6 <hi>d.</hi>
+            </p>
+            <p n="6">6. <hi>Lawyers, Bootatus &amp; Spurratus;</hi> or the long Vacation, a Poem, 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:37774:71"/>
+            <p n="7">7. The Siege and Sur<g ref="char:EOLhyphen"/>render of <hi>Mons,</hi> a Tragi-Comedy, expoſing the Villany of the <hi>Prieſts,</hi> and the Intrigues of the <hi>French,</hi> in that affair, 6 <hi>d.</hi>
+            </p>
+            <p n="8">8. <hi>Iſlington-Wells,</hi> or the three peny Accade<g ref="char:EOLhyphen"/>my, a Satyr on the <hi>Wa<g ref="char:EOLhyphen"/>ter-Drinkers,</hi> 6 <hi>d.</hi>
+            </p>
+            <p n="9">9. The Search after <hi>Claret,</hi> or a Viſitation of the <hi>Vintners,</hi> a Poem in 3 parts, 1 <hi>s.</hi> 4 <hi>d.</hi>
+            </p>
+            <p n="10">10. Fatal Freindſhip, or the Drunkards Miſe<g ref="char:EOLhyphen"/>ry, 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:37774:71"/>
+            <p n="11">11. <hi>Britannia Victrix,</hi> or the Tryumphs of the Royal Navy, in the Vi<g ref="char:EOLhyphen"/>ctorious Ingagement with the <hi>French Fleet, May,</hi> 92. a Pindarick Poem, 6 <hi>d.</hi>
+            </p>
+            <p n="12">12. A Journal of the Motion and Actions of the Confederate Forces againſt the <hi>French,</hi> in the United Provinces, and the <hi>Spaniſh Netherlands,</hi> with curious Remarks on the Situation, Strength, and Rarities of the moſt conſide<g ref="char:EOLhyphen"/>rable
+<pb facs="tcp:37774:72"/>Places in thoſe Parts, price 6 <hi>d.</hi>
+            </p>
+            <p n="13">13. There is juſt now Pub<g ref="char:EOLhyphen"/>liſhed, a Book entituled <hi>Bar<g ref="char:EOLhyphen"/>barian Cruelty,</hi> being a true Hiſtory of the Diſtreſſed con<g ref="char:EOLhyphen"/>dition of the Chriſtian Cap<g ref="char:EOLhyphen"/>tives under the Tyranny of <hi>Mully Iſhmael,</hi> Emperour of <hi>Morrocco, &amp;c.</hi> Giving an ac<g ref="char:EOLhyphen"/>count of his late Wars with the <hi>Algerines:</hi> A Deſcription of his Country, Palaces, and way of Living. And a par<g ref="char:EOLhyphen"/>ticular Relation of the dan<g ref="char:EOLhyphen"/>gerous eſcape of the Author, and two <hi>Engliſh</hi> Men more, from thence, after a miſerable Slavery of 10 years, humbly Dedicated to the King and Queen's Majeſties, by <hi>Fran. Brooks,</hi> price, 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
